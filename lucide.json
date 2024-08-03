@@ -1,6058 +1,6058 @@
 [
     {
     "name": "a-arrow-down",
-    "class": "icon-a-arrow-down"
+    "class": "lu icon-a-arrow-down"
     },
     {
     "name": "a-arrow-up",
-    "class": "icon-a-arrow-up"
+    "class": "lu icon-a-arrow-up"
     },
     {
     "name": "a-large-small",
-    "class": "icon-a-large-small"
+    "class": "lu icon-a-large-small"
     },
     {
     "name": "accessibility",
-    "class": "icon-accessibility"
+    "class": "lu icon-accessibility"
     },
     {
     "name": "activity",
-    "class": "icon-activity"
+    "class": "lu icon-activity"
     },
     {
     "name": "air-vent",
-    "class": "icon-air-vent"
+    "class": "lu icon-air-vent"
     },
     {
     "name": "airplay",
-    "class": "icon-airplay"
+    "class": "lu icon-airplay"
     },
     {
     "name": "alarm-clock-check",
-    "class": "icon-alarm-clock-check"
+    "class": "lu icon-alarm-clock-check"
     },
     {
     "name": "alarm-clock-minus",
-    "class": "icon-alarm-clock-minus"
+    "class": "lu icon-alarm-clock-minus"
     },
     {
     "name": "alarm-clock-off",
-    "class": "icon-alarm-clock-off"
+    "class": "lu icon-alarm-clock-off"
     },
     {
     "name": "alarm-clock-plus",
-    "class": "icon-alarm-clock-plus"
+    "class": "lu icon-alarm-clock-plus"
     },
     {
     "name": "alarm-clock",
-    "class": "icon-alarm-clock"
+    "class": "lu icon-alarm-clock"
     },
     {
     "name": "alarm-smoke",
-    "class": "icon-alarm-smoke"
+    "class": "lu icon-alarm-smoke"
     },
     {
     "name": "album",
-    "class": "icon-album"
+    "class": "lu icon-album"
     },
     {
     "name": "align-center-horizontal",
-    "class": "icon-align-center-horizontal"
+    "class": "lu icon-align-center-horizontal"
     },
     {
     "name": "align-center-vertical",
-    "class": "icon-align-center-vertical"
+    "class": "lu icon-align-center-vertical"
     },
     {
     "name": "align-center",
-    "class": "icon-align-center"
+    "class": "lu icon-align-center"
     },
     {
     "name": "align-end-horizontal",
-    "class": "icon-align-end-horizontal"
+    "class": "lu icon-align-end-horizontal"
     },
     {
     "name": "align-end-vertical",
-    "class": "icon-align-end-vertical"
+    "class": "lu icon-align-end-vertical"
     },
     {
     "name": "align-horizontal-distribute-center",
-    "class": "icon-align-horizontal-distribute-center"
+    "class": "lu icon-align-horizontal-distribute-center"
     },
     {
     "name": "align-horizontal-distribute-end",
-    "class": "icon-align-horizontal-distribute-end"
+    "class": "lu icon-align-horizontal-distribute-end"
     },
     {
     "name": "align-horizontal-distribute-start",
-    "class": "icon-align-horizontal-distribute-start"
+    "class": "lu icon-align-horizontal-distribute-start"
     },
     {
     "name": "align-horizontal-justify-center",
-    "class": "icon-align-horizontal-justify-center"
+    "class": "lu icon-align-horizontal-justify-center"
     },
     {
     "name": "align-horizontal-justify-end",
-    "class": "icon-align-horizontal-justify-end"
+    "class": "lu icon-align-horizontal-justify-end"
     },
     {
     "name": "align-horizontal-justify-start",
-    "class": "icon-align-horizontal-justify-start"
+    "class": "lu icon-align-horizontal-justify-start"
     },
     {
     "name": "align-horizontal-space-around",
-    "class": "icon-align-horizontal-space-around"
+    "class": "lu icon-align-horizontal-space-around"
     },
     {
     "name": "align-horizontal-space-between",
-    "class": "icon-align-horizontal-space-between"
+    "class": "lu icon-align-horizontal-space-between"
     },
     {
     "name": "align-justify",
-    "class": "icon-align-justify"
+    "class": "lu icon-align-justify"
     },
     {
     "name": "align-left",
-    "class": "icon-align-left"
+    "class": "lu icon-align-left"
     },
     {
     "name": "align-right",
-    "class": "icon-align-right"
+    "class": "lu icon-align-right"
     },
     {
     "name": "align-start-horizontal",
-    "class": "icon-align-start-horizontal"
+    "class": "lu icon-align-start-horizontal"
     },
     {
     "name": "align-start-vertical",
-    "class": "icon-align-start-vertical"
+    "class": "lu icon-align-start-vertical"
     },
     {
     "name": "align-vertical-distribute-center",
-    "class": "icon-align-vertical-distribute-center"
+    "class": "lu icon-align-vertical-distribute-center"
     },
     {
     "name": "align-vertical-distribute-end",
-    "class": "icon-align-vertical-distribute-end"
+    "class": "lu icon-align-vertical-distribute-end"
     },
     {
     "name": "align-vertical-distribute-start",
-    "class": "icon-align-vertical-distribute-start"
+    "class": "lu icon-align-vertical-distribute-start"
     },
     {
     "name": "align-vertical-justify-center",
-    "class": "icon-align-vertical-justify-center"
+    "class": "lu icon-align-vertical-justify-center"
     },
     {
     "name": "align-vertical-justify-end",
-    "class": "icon-align-vertical-justify-end"
+    "class": "lu icon-align-vertical-justify-end"
     },
     {
     "name": "align-vertical-justify-start",
-    "class": "icon-align-vertical-justify-start"
+    "class": "lu icon-align-vertical-justify-start"
     },
     {
     "name": "align-vertical-space-around",
-    "class": "icon-align-vertical-space-around"
+    "class": "lu icon-align-vertical-space-around"
     },
     {
     "name": "align-vertical-space-between",
-    "class": "icon-align-vertical-space-between"
+    "class": "lu icon-align-vertical-space-between"
     },
     {
     "name": "ambulance",
-    "class": "icon-ambulance"
+    "class": "lu icon-ambulance"
     },
     {
     "name": "ampersand",
-    "class": "icon-ampersand"
+    "class": "lu icon-ampersand"
     },
     {
     "name": "ampersands",
-    "class": "icon-ampersands"
+    "class": "lu icon-ampersands"
     },
     {
     "name": "amphora",
-    "class": "icon-amphora"
+    "class": "lu icon-amphora"
     },
     {
     "name": "anchor",
-    "class": "icon-anchor"
+    "class": "lu icon-anchor"
     },
     {
     "name": "angry",
-    "class": "icon-angry"
+    "class": "lu icon-angry"
     },
     {
     "name": "annoyed",
-    "class": "icon-annoyed"
+    "class": "lu icon-annoyed"
     },
     {
     "name": "antenna",
-    "class": "icon-antenna"
+    "class": "lu icon-antenna"
     },
     {
     "name": "anvil",
-    "class": "icon-anvil"
+    "class": "lu icon-anvil"
     },
     {
     "name": "aperture",
-    "class": "icon-aperture"
+    "class": "lu icon-aperture"
     },
     {
     "name": "app-window-mac",
-    "class": "icon-app-window-mac"
+    "class": "lu icon-app-window-mac"
     },
     {
     "name": "app-window",
-    "class": "icon-app-window"
+    "class": "lu icon-app-window"
     },
     {
     "name": "apple",
-    "class": "icon-apple"
+    "class": "lu icon-apple"
     },
     {
     "name": "archive-restore",
-    "class": "icon-archive-restore"
+    "class": "lu icon-archive-restore"
     },
     {
     "name": "archive-x",
-    "class": "icon-archive-x"
+    "class": "lu icon-archive-x"
     },
     {
     "name": "archive",
-    "class": "icon-archive"
+    "class": "lu icon-archive"
     },
     {
     "name": "armchair",
-    "class": "icon-armchair"
+    "class": "lu icon-armchair"
     },
     {
     "name": "arrow-big-down-dash",
-    "class": "icon-arrow-big-down-dash"
+    "class": "lu icon-arrow-big-down-dash"
     },
     {
     "name": "arrow-big-down",
-    "class": "icon-arrow-big-down"
+    "class": "lu icon-arrow-big-down"
     },
     {
     "name": "arrow-big-left-dash",
-    "class": "icon-arrow-big-left-dash"
+    "class": "lu icon-arrow-big-left-dash"
     },
     {
     "name": "arrow-big-left",
-    "class": "icon-arrow-big-left"
+    "class": "lu icon-arrow-big-left"
     },
     {
     "name": "arrow-big-right-dash",
-    "class": "icon-arrow-big-right-dash"
+    "class": "lu icon-arrow-big-right-dash"
     },
     {
     "name": "arrow-big-right",
-    "class": "icon-arrow-big-right"
+    "class": "lu icon-arrow-big-right"
     },
     {
     "name": "arrow-big-up-dash",
-    "class": "icon-arrow-big-up-dash"
+    "class": "lu icon-arrow-big-up-dash"
     },
     {
     "name": "arrow-big-up",
-    "class": "icon-arrow-big-up"
+    "class": "lu icon-arrow-big-up"
     },
     {
     "name": "arrow-down-0-1",
-    "class": "icon-arrow-down-0-1"
+    "class": "lu icon-arrow-down-0-1"
     },
     {
     "name": "arrow-down-1-0",
-    "class": "icon-arrow-down-1-0"
+    "class": "lu icon-arrow-down-1-0"
     },
     {
     "name": "arrow-down-a-z",
-    "class": "icon-arrow-down-a-z"
+    "class": "lu icon-arrow-down-a-z"
     },
     {
     "name": "arrow-down-from-line",
-    "class": "icon-arrow-down-from-line"
+    "class": "lu icon-arrow-down-from-line"
     },
     {
     "name": "arrow-down-left",
-    "class": "icon-arrow-down-left"
+    "class": "lu icon-arrow-down-left"
     },
     {
     "name": "arrow-down-narrow-wide",
-    "class": "icon-arrow-down-narrow-wide"
+    "class": "lu icon-arrow-down-narrow-wide"
     },
     {
     "name": "arrow-down-right",
-    "class": "icon-arrow-down-right"
+    "class": "lu icon-arrow-down-right"
     },
     {
     "name": "arrow-down-to-dot",
-    "class": "icon-arrow-down-to-dot"
+    "class": "lu icon-arrow-down-to-dot"
     },
     {
     "name": "arrow-down-to-line",
-    "class": "icon-arrow-down-to-line"
+    "class": "lu icon-arrow-down-to-line"
     },
     {
     "name": "arrow-down-up",
-    "class": "icon-arrow-down-up"
+    "class": "lu icon-arrow-down-up"
     },
     {
     "name": "arrow-down-wide-narrow",
-    "class": "icon-arrow-down-wide-narrow"
+    "class": "lu icon-arrow-down-wide-narrow"
     },
     {
     "name": "arrow-down-z-a",
-    "class": "icon-arrow-down-z-a"
+    "class": "lu icon-arrow-down-z-a"
     },
     {
     "name": "arrow-down",
-    "class": "icon-arrow-down"
+    "class": "lu icon-arrow-down"
     },
     {
     "name": "arrow-left-from-line",
-    "class": "icon-arrow-left-from-line"
+    "class": "lu icon-arrow-left-from-line"
     },
     {
     "name": "arrow-left-right",
-    "class": "icon-arrow-left-right"
+    "class": "lu icon-arrow-left-right"
     },
     {
     "name": "arrow-left-to-line",
-    "class": "icon-arrow-left-to-line"
+    "class": "lu icon-arrow-left-to-line"
     },
     {
     "name": "arrow-left",
-    "class": "icon-arrow-left"
+    "class": "lu icon-arrow-left"
     },
     {
     "name": "arrow-right-from-line",
-    "class": "icon-arrow-right-from-line"
+    "class": "lu icon-arrow-right-from-line"
     },
     {
     "name": "arrow-right-left",
-    "class": "icon-arrow-right-left"
+    "class": "lu icon-arrow-right-left"
     },
     {
     "name": "arrow-right-to-line",
-    "class": "icon-arrow-right-to-line"
+    "class": "lu icon-arrow-right-to-line"
     },
     {
     "name": "arrow-right",
-    "class": "icon-arrow-right"
+    "class": "lu icon-arrow-right"
     },
     {
     "name": "arrow-up-0-1",
-    "class": "icon-arrow-up-0-1"
+    "class": "lu icon-arrow-up-0-1"
     },
     {
     "name": "arrow-up-1-0",
-    "class": "icon-arrow-up-1-0"
+    "class": "lu icon-arrow-up-1-0"
     },
     {
     "name": "arrow-up-a-z",
-    "class": "icon-arrow-up-a-z"
+    "class": "lu icon-arrow-up-a-z"
     },
     {
     "name": "arrow-up-down",
-    "class": "icon-arrow-up-down"
+    "class": "lu icon-arrow-up-down"
     },
     {
     "name": "arrow-up-from-dot",
-    "class": "icon-arrow-up-from-dot"
+    "class": "lu icon-arrow-up-from-dot"
     },
     {
     "name": "arrow-up-from-line",
-    "class": "icon-arrow-up-from-line"
+    "class": "lu icon-arrow-up-from-line"
     },
     {
     "name": "arrow-up-left",
-    "class": "icon-arrow-up-left"
+    "class": "lu icon-arrow-up-left"
     },
     {
     "name": "arrow-up-narrow-wide",
-    "class": "icon-arrow-up-narrow-wide"
+    "class": "lu icon-arrow-up-narrow-wide"
     },
     {
     "name": "arrow-up-right",
-    "class": "icon-arrow-up-right"
+    "class": "lu icon-arrow-up-right"
     },
     {
     "name": "arrow-up-to-line",
-    "class": "icon-arrow-up-to-line"
+    "class": "lu icon-arrow-up-to-line"
     },
     {
     "name": "arrow-up-wide-narrow",
-    "class": "icon-arrow-up-wide-narrow"
+    "class": "lu icon-arrow-up-wide-narrow"
     },
     {
     "name": "arrow-up-z-a",
-    "class": "icon-arrow-up-z-a"
+    "class": "lu icon-arrow-up-z-a"
     },
     {
     "name": "arrow-up",
-    "class": "icon-arrow-up"
+    "class": "lu icon-arrow-up"
     },
     {
     "name": "arrows-up-from-line",
-    "class": "icon-arrows-up-from-line"
+    "class": "lu icon-arrows-up-from-line"
     },
     {
     "name": "asterisk",
-    "class": "icon-asterisk"
+    "class": "lu icon-asterisk"
     },
     {
     "name": "at-sign",
-    "class": "icon-at-sign"
+    "class": "lu icon-at-sign"
     },
     {
     "name": "atom",
-    "class": "icon-atom"
+    "class": "lu icon-atom"
     },
     {
     "name": "audio-lines",
-    "class": "icon-audio-lines"
+    "class": "lu icon-audio-lines"
     },
     {
     "name": "audio-waveform",
-    "class": "icon-audio-waveform"
+    "class": "lu icon-audio-waveform"
     },
     {
     "name": "award",
-    "class": "icon-award"
+    "class": "lu icon-award"
     },
     {
     "name": "axe",
-    "class": "icon-axe"
+    "class": "lu icon-axe"
     },
     {
     "name": "axis-3d",
-    "class": "icon-axis-3d"
+    "class": "lu icon-axis-3d"
     },
     {
     "name": "baby",
-    "class": "icon-baby"
+    "class": "lu icon-baby"
     },
     {
     "name": "backpack",
-    "class": "icon-backpack"
+    "class": "lu icon-backpack"
     },
     {
     "name": "badge-alert",
-    "class": "icon-badge-alert"
+    "class": "lu icon-badge-alert"
     },
     {
     "name": "badge-cent",
-    "class": "icon-badge-cent"
+    "class": "lu icon-badge-cent"
     },
     {
     "name": "badge-check",
-    "class": "icon-badge-check"
+    "class": "lu icon-badge-check"
     },
     {
     "name": "badge-dollar-sign",
-    "class": "icon-badge-dollar-sign"
+    "class": "lu icon-badge-dollar-sign"
     },
     {
     "name": "badge-euro",
-    "class": "icon-badge-euro"
+    "class": "lu icon-badge-euro"
     },
     {
     "name": "badge-help",
-    "class": "icon-badge-help"
+    "class": "lu icon-badge-help"
     },
     {
     "name": "badge-indian-rupee",
-    "class": "icon-badge-indian-rupee"
+    "class": "lu icon-badge-indian-rupee"
     },
     {
     "name": "badge-info",
-    "class": "icon-badge-info"
+    "class": "lu icon-badge-info"
     },
     {
     "name": "badge-japanese-yen",
-    "class": "icon-badge-japanese-yen"
+    "class": "lu icon-badge-japanese-yen"
     },
     {
     "name": "badge-minus",
-    "class": "icon-badge-minus"
+    "class": "lu icon-badge-minus"
     },
     {
     "name": "badge-percent",
-    "class": "icon-badge-percent"
+    "class": "lu icon-badge-percent"
     },
     {
     "name": "badge-plus",
-    "class": "icon-badge-plus"
+    "class": "lu icon-badge-plus"
     },
     {
     "name": "badge-pound-sterling",
-    "class": "icon-badge-pound-sterling"
+    "class": "lu icon-badge-pound-sterling"
     },
     {
     "name": "badge-russian-ruble",
-    "class": "icon-badge-russian-ruble"
+    "class": "lu icon-badge-russian-ruble"
     },
     {
     "name": "badge-swiss-franc",
-    "class": "icon-badge-swiss-franc"
+    "class": "lu icon-badge-swiss-franc"
     },
     {
     "name": "badge-x",
-    "class": "icon-badge-x"
+    "class": "lu icon-badge-x"
     },
     {
     "name": "badge",
-    "class": "icon-badge"
+    "class": "lu icon-badge"
     },
     {
     "name": "baggage-claim",
-    "class": "icon-baggage-claim"
+    "class": "lu icon-baggage-claim"
     },
     {
     "name": "ban",
-    "class": "icon-ban"
+    "class": "lu icon-ban"
     },
     {
     "name": "banana",
-    "class": "icon-banana"
+    "class": "lu icon-banana"
     },
     {
     "name": "banknote",
-    "class": "icon-banknote"
+    "class": "lu icon-banknote"
     },
     {
     "name": "barcode",
-    "class": "icon-barcode"
+    "class": "lu icon-barcode"
     },
     {
     "name": "baseline",
-    "class": "icon-baseline"
+    "class": "lu icon-baseline"
     },
     {
     "name": "bath",
-    "class": "icon-bath"
+    "class": "lu icon-bath"
     },
     {
     "name": "battery-charging",
-    "class": "icon-battery-charging"
+    "class": "lu icon-battery-charging"
     },
     {
     "name": "battery-full",
-    "class": "icon-battery-full"
+    "class": "lu icon-battery-full"
     },
     {
     "name": "battery-low",
-    "class": "icon-battery-low"
+    "class": "lu icon-battery-low"
     },
     {
     "name": "battery-medium",
-    "class": "icon-battery-medium"
+    "class": "lu icon-battery-medium"
     },
     {
     "name": "battery-warning",
-    "class": "icon-battery-warning"
+    "class": "lu icon-battery-warning"
     },
     {
     "name": "battery",
-    "class": "icon-battery"
+    "class": "lu icon-battery"
     },
     {
     "name": "beaker",
-    "class": "icon-beaker"
+    "class": "lu icon-beaker"
     },
     {
     "name": "bean-off",
-    "class": "icon-bean-off"
+    "class": "lu icon-bean-off"
     },
     {
     "name": "bean",
-    "class": "icon-bean"
+    "class": "lu icon-bean"
     },
     {
     "name": "bed-double",
-    "class": "icon-bed-double"
+    "class": "lu icon-bed-double"
     },
     {
     "name": "bed-single",
-    "class": "icon-bed-single"
+    "class": "lu icon-bed-single"
     },
     {
     "name": "bed",
-    "class": "icon-bed"
+    "class": "lu icon-bed"
     },
     {
     "name": "beef",
-    "class": "icon-beef"
+    "class": "lu icon-beef"
     },
     {
     "name": "beer-off",
-    "class": "icon-beer-off"
+    "class": "lu icon-beer-off"
     },
     {
     "name": "beer",
-    "class": "icon-beer"
+    "class": "lu icon-beer"
     },
     {
     "name": "bell-dot",
-    "class": "icon-bell-dot"
+    "class": "lu icon-bell-dot"
     },
     {
     "name": "bell-electric",
-    "class": "icon-bell-electric"
+    "class": "lu icon-bell-electric"
     },
     {
     "name": "bell-minus",
-    "class": "icon-bell-minus"
+    "class": "lu icon-bell-minus"
     },
     {
     "name": "bell-off",
-    "class": "icon-bell-off"
+    "class": "lu icon-bell-off"
     },
     {
     "name": "bell-plus",
-    "class": "icon-bell-plus"
+    "class": "lu icon-bell-plus"
     },
     {
     "name": "bell-ring",
-    "class": "icon-bell-ring"
+    "class": "lu icon-bell-ring"
     },
     {
     "name": "bell",
-    "class": "icon-bell"
+    "class": "lu icon-bell"
     },
     {
     "name": "between-horizontal-end",
-    "class": "icon-between-horizontal-end"
+    "class": "lu icon-between-horizontal-end"
     },
     {
     "name": "between-horizontal-start",
-    "class": "icon-between-horizontal-start"
+    "class": "lu icon-between-horizontal-start"
     },
     {
     "name": "between-vertical-end",
-    "class": "icon-between-vertical-end"
+    "class": "lu icon-between-vertical-end"
     },
     {
     "name": "between-vertical-start",
-    "class": "icon-between-vertical-start"
+    "class": "lu icon-between-vertical-start"
     },
     {
     "name": "biceps-flexed",
-    "class": "icon-biceps-flexed"
+    "class": "lu icon-biceps-flexed"
     },
     {
     "name": "bike",
-    "class": "icon-bike"
+    "class": "lu icon-bike"
     },
     {
     "name": "binary",
-    "class": "icon-binary"
+    "class": "lu icon-binary"
     },
     {
     "name": "biohazard",
-    "class": "icon-biohazard"
+    "class": "lu icon-biohazard"
     },
     {
     "name": "bird",
-    "class": "icon-bird"
+    "class": "lu icon-bird"
     },
     {
     "name": "bitcoin",
-    "class": "icon-bitcoin"
+    "class": "lu icon-bitcoin"
     },
     {
     "name": "blend",
-    "class": "icon-blend"
+    "class": "lu icon-blend"
     },
     {
     "name": "blinds",
-    "class": "icon-blinds"
+    "class": "lu icon-blinds"
     },
     {
     "name": "blocks",
-    "class": "icon-blocks"
+    "class": "lu icon-blocks"
     },
     {
     "name": "bluetooth-connected",
-    "class": "icon-bluetooth-connected"
+    "class": "lu icon-bluetooth-connected"
     },
     {
     "name": "bluetooth-off",
-    "class": "icon-bluetooth-off"
+    "class": "lu icon-bluetooth-off"
     },
     {
     "name": "bluetooth-searching",
-    "class": "icon-bluetooth-searching"
+    "class": "lu icon-bluetooth-searching"
     },
     {
     "name": "bluetooth",
-    "class": "icon-bluetooth"
+    "class": "lu icon-bluetooth"
     },
     {
     "name": "bold",
-    "class": "icon-bold"
+    "class": "lu icon-bold"
     },
     {
     "name": "bolt",
-    "class": "icon-bolt"
+    "class": "lu icon-bolt"
     },
     {
     "name": "bomb",
-    "class": "icon-bomb"
+    "class": "lu icon-bomb"
     },
     {
     "name": "bone",
-    "class": "icon-bone"
+    "class": "lu icon-bone"
     },
     {
     "name": "book-a",
-    "class": "icon-book-a"
+    "class": "lu icon-book-a"
     },
     {
     "name": "book-audio",
-    "class": "icon-book-audio"
+    "class": "lu icon-book-audio"
     },
     {
     "name": "book-check",
-    "class": "icon-book-check"
+    "class": "lu icon-book-check"
     },
     {
     "name": "book-copy",
-    "class": "icon-book-copy"
+    "class": "lu icon-book-copy"
     },
     {
     "name": "book-dashed",
-    "class": "icon-book-dashed"
+    "class": "lu icon-book-dashed"
     },
     {
     "name": "book-down",
-    "class": "icon-book-down"
+    "class": "lu icon-book-down"
     },
     {
     "name": "book-headphones",
-    "class": "icon-book-headphones"
+    "class": "lu icon-book-headphones"
     },
     {
     "name": "book-heart",
-    "class": "icon-book-heart"
+    "class": "lu icon-book-heart"
     },
     {
     "name": "book-image",
-    "class": "icon-book-image"
+    "class": "lu icon-book-image"
     },
     {
     "name": "book-key",
-    "class": "icon-book-key"
+    "class": "lu icon-book-key"
     },
     {
     "name": "book-lock",
-    "class": "icon-book-lock"
+    "class": "lu icon-book-lock"
     },
     {
     "name": "book-marked",
-    "class": "icon-book-marked"
+    "class": "lu icon-book-marked"
     },
     {
     "name": "book-minus",
-    "class": "icon-book-minus"
+    "class": "lu icon-book-minus"
     },
     {
     "name": "book-open-check",
-    "class": "icon-book-open-check"
+    "class": "lu icon-book-open-check"
     },
     {
     "name": "book-open-text",
-    "class": "icon-book-open-text"
+    "class": "lu icon-book-open-text"
     },
     {
     "name": "book-open",
-    "class": "icon-book-open"
+    "class": "lu icon-book-open"
     },
     {
     "name": "book-plus",
-    "class": "icon-book-plus"
+    "class": "lu icon-book-plus"
     },
     {
     "name": "book-text",
-    "class": "icon-book-text"
+    "class": "lu icon-book-text"
     },
     {
     "name": "book-type",
-    "class": "icon-book-type"
+    "class": "lu icon-book-type"
     },
     {
     "name": "book-up-2",
-    "class": "icon-book-up-2"
+    "class": "lu icon-book-up-2"
     },
     {
     "name": "book-up",
-    "class": "icon-book-up"
+    "class": "lu icon-book-up"
     },
     {
     "name": "book-user",
-    "class": "icon-book-user"
+    "class": "lu icon-book-user"
     },
     {
     "name": "book-x",
-    "class": "icon-book-x"
+    "class": "lu icon-book-x"
     },
     {
     "name": "book",
-    "class": "icon-book"
+    "class": "lu icon-book"
     },
     {
     "name": "bookmark-check",
-    "class": "icon-bookmark-check"
+    "class": "lu icon-bookmark-check"
     },
     {
     "name": "bookmark-minus",
-    "class": "icon-bookmark-minus"
+    "class": "lu icon-bookmark-minus"
     },
     {
     "name": "bookmark-plus",
-    "class": "icon-bookmark-plus"
+    "class": "lu icon-bookmark-plus"
     },
     {
     "name": "bookmark-x",
-    "class": "icon-bookmark-x"
+    "class": "lu icon-bookmark-x"
     },
     {
     "name": "bookmark",
-    "class": "icon-bookmark"
+    "class": "lu icon-bookmark"
     },
     {
     "name": "boom-box",
-    "class": "icon-boom-box"
+    "class": "lu icon-boom-box"
     },
     {
     "name": "bot-message-square",
-    "class": "icon-bot-message-square"
+    "class": "lu icon-bot-message-square"
     },
     {
     "name": "bot-off",
-    "class": "icon-bot-off"
+    "class": "lu icon-bot-off"
     },
     {
     "name": "bot",
-    "class": "icon-bot"
+    "class": "lu icon-bot"
     },
     {
     "name": "box-select",
-    "class": "icon-box-select"
+    "class": "lu icon-box-select"
     },
     {
     "name": "box",
-    "class": "icon-box"
+    "class": "lu icon-box"
     },
     {
     "name": "boxes",
-    "class": "icon-boxes"
+    "class": "lu icon-boxes"
     },
     {
     "name": "braces",
-    "class": "icon-braces"
+    "class": "lu icon-braces"
     },
     {
     "name": "brackets",
-    "class": "icon-brackets"
+    "class": "lu icon-brackets"
     },
     {
     "name": "brain-circuit",
-    "class": "icon-brain-circuit"
+    "class": "lu icon-brain-circuit"
     },
     {
     "name": "brain-cog",
-    "class": "icon-brain-cog"
+    "class": "lu icon-brain-cog"
     },
     {
     "name": "brain",
-    "class": "icon-brain"
+    "class": "lu icon-brain"
     },
     {
     "name": "brick-wall",
-    "class": "icon-brick-wall"
+    "class": "lu icon-brick-wall"
     },
     {
     "name": "briefcase-business",
-    "class": "icon-briefcase-business"
+    "class": "lu icon-briefcase-business"
     },
     {
     "name": "briefcase-medical",
-    "class": "icon-briefcase-medical"
+    "class": "lu icon-briefcase-medical"
     },
     {
     "name": "briefcase",
-    "class": "icon-briefcase"
+    "class": "lu icon-briefcase"
     },
     {
     "name": "bring-to-front",
-    "class": "icon-bring-to-front"
+    "class": "lu icon-bring-to-front"
     },
     {
     "name": "brush",
-    "class": "icon-brush"
+    "class": "lu icon-brush"
     },
     {
     "name": "bug-off",
-    "class": "icon-bug-off"
+    "class": "lu icon-bug-off"
     },
     {
     "name": "bug-play",
-    "class": "icon-bug-play"
+    "class": "lu icon-bug-play"
     },
     {
     "name": "bug",
-    "class": "icon-bug"
+    "class": "lu icon-bug"
     },
     {
     "name": "building-2",
-    "class": "icon-building-2"
+    "class": "lu icon-building-2"
     },
     {
     "name": "building",
-    "class": "icon-building"
+    "class": "lu icon-building"
     },
     {
     "name": "bus-front",
-    "class": "icon-bus-front"
+    "class": "lu icon-bus-front"
     },
     {
     "name": "bus",
-    "class": "icon-bus"
+    "class": "lu icon-bus"
     },
     {
     "name": "cable-car",
-    "class": "icon-cable-car"
+    "class": "lu icon-cable-car"
     },
     {
     "name": "cable",
-    "class": "icon-cable"
+    "class": "lu icon-cable"
     },
     {
     "name": "cake-slice",
-    "class": "icon-cake-slice"
+    "class": "lu icon-cake-slice"
     },
     {
     "name": "cake",
-    "class": "icon-cake"
+    "class": "lu icon-cake"
     },
     {
     "name": "calculator",
-    "class": "icon-calculator"
+    "class": "lu icon-calculator"
     },
     {
     "name": "calendar-arrow-down",
-    "class": "icon-calendar-arrow-down"
+    "class": "lu icon-calendar-arrow-down"
     },
     {
     "name": "calendar-arrow-up",
-    "class": "icon-calendar-arrow-up"
+    "class": "lu icon-calendar-arrow-up"
     },
     {
     "name": "calendar-check-2",
-    "class": "icon-calendar-check-2"
+    "class": "lu icon-calendar-check-2"
     },
     {
     "name": "calendar-check",
-    "class": "icon-calendar-check"
+    "class": "lu icon-calendar-check"
     },
     {
     "name": "calendar-clock",
-    "class": "icon-calendar-clock"
+    "class": "lu icon-calendar-clock"
     },
     {
     "name": "calendar-cog",
-    "class": "icon-calendar-cog"
+    "class": "lu icon-calendar-cog"
     },
     {
     "name": "calendar-days",
-    "class": "icon-calendar-days"
+    "class": "lu icon-calendar-days"
     },
     {
     "name": "calendar-fold",
-    "class": "icon-calendar-fold"
+    "class": "lu icon-calendar-fold"
     },
     {
     "name": "calendar-heart",
-    "class": "icon-calendar-heart"
+    "class": "lu icon-calendar-heart"
     },
     {
     "name": "calendar-minus-2",
-    "class": "icon-calendar-minus-2"
+    "class": "lu icon-calendar-minus-2"
     },
     {
     "name": "calendar-minus",
-    "class": "icon-calendar-minus"
+    "class": "lu icon-calendar-minus"
     },
     {
     "name": "calendar-off",
-    "class": "icon-calendar-off"
+    "class": "lu icon-calendar-off"
     },
     {
     "name": "calendar-plus-2",
-    "class": "icon-calendar-plus-2"
+    "class": "lu icon-calendar-plus-2"
     },
     {
     "name": "calendar-plus",
-    "class": "icon-calendar-plus"
+    "class": "lu icon-calendar-plus"
     },
     {
     "name": "calendar-range",
-    "class": "icon-calendar-range"
+    "class": "lu icon-calendar-range"
     },
     {
     "name": "calendar-search",
-    "class": "icon-calendar-search"
+    "class": "lu icon-calendar-search"
     },
     {
     "name": "calendar-x-2",
-    "class": "icon-calendar-x-2"
+    "class": "lu icon-calendar-x-2"
     },
     {
     "name": "calendar-x",
-    "class": "icon-calendar-x"
+    "class": "lu icon-calendar-x"
     },
     {
     "name": "calendar",
-    "class": "icon-calendar"
+    "class": "lu icon-calendar"
     },
     {
     "name": "camera-off",
-    "class": "icon-camera-off"
+    "class": "lu icon-camera-off"
     },
     {
     "name": "camera",
-    "class": "icon-camera"
+    "class": "lu icon-camera"
     },
     {
     "name": "candy-cane",
-    "class": "icon-candy-cane"
+    "class": "lu icon-candy-cane"
     },
     {
     "name": "candy-off",
-    "class": "icon-candy-off"
+    "class": "lu icon-candy-off"
     },
     {
     "name": "candy",
-    "class": "icon-candy"
+    "class": "lu icon-candy"
     },
     {
     "name": "cannabis",
-    "class": "icon-cannabis"
+    "class": "lu icon-cannabis"
     },
     {
     "name": "captions-off",
-    "class": "icon-captions-off"
+    "class": "lu icon-captions-off"
     },
     {
     "name": "captions",
-    "class": "icon-captions"
+    "class": "lu icon-captions"
     },
     {
     "name": "car-front",
-    "class": "icon-car-front"
+    "class": "lu icon-car-front"
     },
     {
     "name": "car-taxi-front",
-    "class": "icon-car-taxi-front"
+    "class": "lu icon-car-taxi-front"
     },
     {
     "name": "car",
-    "class": "icon-car"
+    "class": "lu icon-car"
     },
     {
     "name": "caravan",
-    "class": "icon-caravan"
+    "class": "lu icon-caravan"
     },
     {
     "name": "carrot",
-    "class": "icon-carrot"
+    "class": "lu icon-carrot"
     },
     {
     "name": "case-lower",
-    "class": "icon-case-lower"
+    "class": "lu icon-case-lower"
     },
     {
     "name": "case-sensitive",
-    "class": "icon-case-sensitive"
+    "class": "lu icon-case-sensitive"
     },
     {
     "name": "case-upper",
-    "class": "icon-case-upper"
+    "class": "lu icon-case-upper"
     },
     {
     "name": "cassette-tape",
-    "class": "icon-cassette-tape"
+    "class": "lu icon-cassette-tape"
     },
     {
     "name": "cast",
-    "class": "icon-cast"
+    "class": "lu icon-cast"
     },
     {
     "name": "castle",
-    "class": "icon-castle"
+    "class": "lu icon-castle"
     },
     {
     "name": "cat",
-    "class": "icon-cat"
+    "class": "lu icon-cat"
     },
     {
     "name": "cctv",
-    "class": "icon-cctv"
+    "class": "lu icon-cctv"
     },
     {
     "name": "chart-area",
-    "class": "icon-chart-area"
+    "class": "lu icon-chart-area"
     },
     {
     "name": "chart-bar-big",
-    "class": "icon-chart-bar-big"
+    "class": "lu icon-chart-bar-big"
     },
     {
     "name": "chart-bar-decreasing",
-    "class": "icon-chart-bar-decreasing"
+    "class": "lu icon-chart-bar-decreasing"
     },
     {
     "name": "chart-bar-increasing",
-    "class": "icon-chart-bar-increasing"
+    "class": "lu icon-chart-bar-increasing"
     },
     {
     "name": "chart-bar-stacked",
-    "class": "icon-chart-bar-stacked"
+    "class": "lu icon-chart-bar-stacked"
     },
     {
     "name": "chart-bar",
-    "class": "icon-chart-bar"
+    "class": "lu icon-chart-bar"
     },
     {
     "name": "chart-candlestick",
-    "class": "icon-chart-candlestick"
+    "class": "lu icon-chart-candlestick"
     },
     {
     "name": "chart-column-big",
-    "class": "icon-chart-column-big"
+    "class": "lu icon-chart-column-big"
     },
     {
     "name": "chart-column-decreasing",
-    "class": "icon-chart-column-decreasing"
+    "class": "lu icon-chart-column-decreasing"
     },
     {
     "name": "chart-column-increasing",
-    "class": "icon-chart-column-increasing"
+    "class": "lu icon-chart-column-increasing"
     },
     {
     "name": "chart-column-stacked",
-    "class": "icon-chart-column-stacked"
+    "class": "lu icon-chart-column-stacked"
     },
     {
     "name": "chart-column",
-    "class": "icon-chart-column"
+    "class": "lu icon-chart-column"
     },
     {
     "name": "chart-line",
-    "class": "icon-chart-line"
+    "class": "lu icon-chart-line"
     },
     {
     "name": "chart-network",
-    "class": "icon-chart-network"
+    "class": "lu icon-chart-network"
     },
     {
     "name": "chart-no-axes-column-decreasing",
-    "class": "icon-chart-no-axes-column-decreasing"
+    "class": "lu icon-chart-no-axes-column-decreasing"
     },
     {
     "name": "chart-no-axes-column-increasing",
-    "class": "icon-chart-no-axes-column-increasing"
+    "class": "lu icon-chart-no-axes-column-increasing"
     },
     {
     "name": "chart-no-axes-column",
-    "class": "icon-chart-no-axes-column"
+    "class": "lu icon-chart-no-axes-column"
     },
     {
     "name": "chart-no-axes-combined",
-    "class": "icon-chart-no-axes-combined"
+    "class": "lu icon-chart-no-axes-combined"
     },
     {
     "name": "chart-no-axes-gantt",
-    "class": "icon-chart-no-axes-gantt"
+    "class": "lu icon-chart-no-axes-gantt"
     },
     {
     "name": "chart-pie",
-    "class": "icon-chart-pie"
+    "class": "lu icon-chart-pie"
     },
     {
     "name": "chart-scatter",
-    "class": "icon-chart-scatter"
+    "class": "lu icon-chart-scatter"
     },
     {
     "name": "chart-spline",
-    "class": "icon-chart-spline"
+    "class": "lu icon-chart-spline"
     },
     {
     "name": "check-check",
-    "class": "icon-check-check"
+    "class": "lu icon-check-check"
     },
     {
     "name": "check",
-    "class": "icon-check"
+    "class": "lu icon-check"
     },
     {
     "name": "chef-hat",
-    "class": "icon-chef-hat"
+    "class": "lu icon-chef-hat"
     },
     {
     "name": "cherry",
-    "class": "icon-cherry"
+    "class": "lu icon-cherry"
     },
     {
     "name": "chevron-down",
-    "class": "icon-chevron-down"
+    "class": "lu icon-chevron-down"
     },
     {
     "name": "chevron-first",
-    "class": "icon-chevron-first"
+    "class": "lu icon-chevron-first"
     },
     {
     "name": "chevron-last",
-    "class": "icon-chevron-last"
+    "class": "lu icon-chevron-last"
     },
     {
     "name": "chevron-left",
-    "class": "icon-chevron-left"
+    "class": "lu icon-chevron-left"
     },
     {
     "name": "chevron-right",
-    "class": "icon-chevron-right"
+    "class": "lu icon-chevron-right"
     },
     {
     "name": "chevron-up",
-    "class": "icon-chevron-up"
+    "class": "lu icon-chevron-up"
     },
     {
     "name": "chevrons-down-up",
-    "class": "icon-chevrons-down-up"
+    "class": "lu icon-chevrons-down-up"
     },
     {
     "name": "chevrons-down",
-    "class": "icon-chevrons-down"
+    "class": "lu icon-chevrons-down"
     },
     {
     "name": "chevrons-left-right",
-    "class": "icon-chevrons-left-right"
+    "class": "lu icon-chevrons-left-right"
     },
     {
     "name": "chevrons-left",
-    "class": "icon-chevrons-left"
+    "class": "lu icon-chevrons-left"
     },
     {
     "name": "chevrons-right-left",
-    "class": "icon-chevrons-right-left"
+    "class": "lu icon-chevrons-right-left"
     },
     {
     "name": "chevrons-right",
-    "class": "icon-chevrons-right"
+    "class": "lu icon-chevrons-right"
     },
     {
     "name": "chevrons-up-down",
-    "class": "icon-chevrons-up-down"
+    "class": "lu icon-chevrons-up-down"
     },
     {
     "name": "chevrons-up",
-    "class": "icon-chevrons-up"
+    "class": "lu icon-chevrons-up"
     },
     {
     "name": "chrome",
-    "class": "icon-chrome"
+    "class": "lu icon-chrome"
     },
     {
     "name": "church",
-    "class": "icon-church"
+    "class": "lu icon-church"
     },
     {
     "name": "cigarette-off",
-    "class": "icon-cigarette-off"
+    "class": "lu icon-cigarette-off"
     },
     {
     "name": "cigarette",
-    "class": "icon-cigarette"
+    "class": "lu icon-cigarette"
     },
     {
     "name": "circle-alert",
-    "class": "icon-circle-alert"
+    "class": "lu icon-circle-alert"
     },
     {
     "name": "circle-arrow-down",
-    "class": "icon-circle-arrow-down"
+    "class": "lu icon-circle-arrow-down"
     },
     {
     "name": "circle-arrow-left",
-    "class": "icon-circle-arrow-left"
+    "class": "lu icon-circle-arrow-left"
     },
     {
     "name": "circle-arrow-out-down-left",
-    "class": "icon-circle-arrow-out-down-left"
+    "class": "lu icon-circle-arrow-out-down-left"
     },
     {
     "name": "circle-arrow-out-down-right",
-    "class": "icon-circle-arrow-out-down-right"
+    "class": "lu icon-circle-arrow-out-down-right"
     },
     {
     "name": "circle-arrow-out-up-left",
-    "class": "icon-circle-arrow-out-up-left"
+    "class": "lu icon-circle-arrow-out-up-left"
     },
     {
     "name": "circle-arrow-out-up-right",
-    "class": "icon-circle-arrow-out-up-right"
+    "class": "lu icon-circle-arrow-out-up-right"
     },
     {
     "name": "circle-arrow-right",
-    "class": "icon-circle-arrow-right"
+    "class": "lu icon-circle-arrow-right"
     },
     {
     "name": "circle-arrow-up",
-    "class": "icon-circle-arrow-up"
+    "class": "lu icon-circle-arrow-up"
     },
     {
     "name": "circle-check-big",
-    "class": "icon-circle-check-big"
+    "class": "lu icon-circle-check-big"
     },
     {
     "name": "circle-check",
-    "class": "icon-circle-check"
+    "class": "lu icon-circle-check"
     },
     {
     "name": "circle-chevron-down",
-    "class": "icon-circle-chevron-down"
+    "class": "lu icon-circle-chevron-down"
     },
     {
     "name": "circle-chevron-left",
-    "class": "icon-circle-chevron-left"
+    "class": "lu icon-circle-chevron-left"
     },
     {
     "name": "circle-chevron-right",
-    "class": "icon-circle-chevron-right"
+    "class": "lu icon-circle-chevron-right"
     },
     {
     "name": "circle-chevron-up",
-    "class": "icon-circle-chevron-up"
+    "class": "lu icon-circle-chevron-up"
     },
     {
     "name": "circle-dashed",
-    "class": "icon-circle-dashed"
+    "class": "lu icon-circle-dashed"
     },
     {
     "name": "circle-divide",
-    "class": "icon-circle-divide"
+    "class": "lu icon-circle-divide"
     },
     {
     "name": "circle-dollar-sign",
-    "class": "icon-circle-dollar-sign"
+    "class": "lu icon-circle-dollar-sign"
     },
     {
     "name": "circle-dot-dashed",
-    "class": "icon-circle-dot-dashed"
+    "class": "lu icon-circle-dot-dashed"
     },
     {
     "name": "circle-dot",
-    "class": "icon-circle-dot"
+    "class": "lu icon-circle-dot"
     },
     {
     "name": "circle-ellipsis",
-    "class": "icon-circle-ellipsis"
+    "class": "lu icon-circle-ellipsis"
     },
     {
     "name": "circle-equal",
-    "class": "icon-circle-equal"
+    "class": "lu icon-circle-equal"
     },
     {
     "name": "circle-fading-arrow-up",
-    "class": "icon-circle-fading-arrow-up"
+    "class": "lu icon-circle-fading-arrow-up"
     },
     {
     "name": "circle-fading-plus",
-    "class": "icon-circle-fading-plus"
+    "class": "lu icon-circle-fading-plus"
     },
     {
     "name": "circle-gauge",
-    "class": "icon-circle-gauge"
+    "class": "lu icon-circle-gauge"
     },
     {
     "name": "circle-help",
-    "class": "icon-circle-help"
+    "class": "lu icon-circle-help"
     },
     {
     "name": "circle-minus",
-    "class": "icon-circle-minus"
+    "class": "lu icon-circle-minus"
     },
     {
     "name": "circle-off",
-    "class": "icon-circle-off"
+    "class": "lu icon-circle-off"
     },
     {
     "name": "circle-parking-off",
-    "class": "icon-circle-parking-off"
+    "class": "lu icon-circle-parking-off"
     },
     {
     "name": "circle-parking",
-    "class": "icon-circle-parking"
+    "class": "lu icon-circle-parking"
     },
     {
     "name": "circle-pause",
-    "class": "icon-circle-pause"
+    "class": "lu icon-circle-pause"
     },
     {
     "name": "circle-percent",
-    "class": "icon-circle-percent"
+    "class": "lu icon-circle-percent"
     },
     {
     "name": "circle-play",
-    "class": "icon-circle-play"
+    "class": "lu icon-circle-play"
     },
     {
     "name": "circle-plus",
-    "class": "icon-circle-plus"
+    "class": "lu icon-circle-plus"
     },
     {
     "name": "circle-power",
-    "class": "icon-circle-power"
+    "class": "lu icon-circle-power"
     },
     {
     "name": "circle-slash-2",
-    "class": "icon-circle-slash-2"
+    "class": "lu icon-circle-slash-2"
     },
     {
     "name": "circle-slash",
-    "class": "icon-circle-slash"
+    "class": "lu icon-circle-slash"
     },
     {
     "name": "circle-stop",
-    "class": "icon-circle-stop"
+    "class": "lu icon-circle-stop"
     },
     {
     "name": "circle-user-round",
-    "class": "icon-circle-user-round"
+    "class": "lu icon-circle-user-round"
     },
     {
     "name": "circle-user",
-    "class": "icon-circle-user"
+    "class": "lu icon-circle-user"
     },
     {
     "name": "circle-x",
-    "class": "icon-circle-x"
+    "class": "lu icon-circle-x"
     },
     {
     "name": "circle",
-    "class": "icon-circle"
+    "class": "lu icon-circle"
     },
     {
     "name": "circuit-board",
-    "class": "icon-circuit-board"
+    "class": "lu icon-circuit-board"
     },
     {
     "name": "citrus",
-    "class": "icon-citrus"
+    "class": "lu icon-citrus"
     },
     {
     "name": "clapperboard",
-    "class": "icon-clapperboard"
+    "class": "lu icon-clapperboard"
     },
     {
     "name": "clipboard-check",
-    "class": "icon-clipboard-check"
+    "class": "lu icon-clipboard-check"
     },
     {
     "name": "clipboard-copy",
-    "class": "icon-clipboard-copy"
+    "class": "lu icon-clipboard-copy"
     },
     {
     "name": "clipboard-list",
-    "class": "icon-clipboard-list"
+    "class": "lu icon-clipboard-list"
     },
     {
     "name": "clipboard-minus",
-    "class": "icon-clipboard-minus"
+    "class": "lu icon-clipboard-minus"
     },
     {
     "name": "clipboard-paste",
-    "class": "icon-clipboard-paste"
+    "class": "lu icon-clipboard-paste"
     },
     {
     "name": "clipboard-pen-line",
-    "class": "icon-clipboard-pen-line"
+    "class": "lu icon-clipboard-pen-line"
     },
     {
     "name": "clipboard-pen",
-    "class": "icon-clipboard-pen"
+    "class": "lu icon-clipboard-pen"
     },
     {
     "name": "clipboard-plus",
-    "class": "icon-clipboard-plus"
+    "class": "lu icon-clipboard-plus"
     },
     {
     "name": "clipboard-type",
-    "class": "icon-clipboard-type"
+    "class": "lu icon-clipboard-type"
     },
     {
     "name": "clipboard-x",
-    "class": "icon-clipboard-x"
+    "class": "lu icon-clipboard-x"
     },
     {
     "name": "clipboard",
-    "class": "icon-clipboard"
+    "class": "lu icon-clipboard"
     },
     {
     "name": "clock-1",
-    "class": "icon-clock-1"
+    "class": "lu icon-clock-1"
     },
     {
     "name": "clock-10",
-    "class": "icon-clock-10"
+    "class": "lu icon-clock-10"
     },
     {
     "name": "clock-11",
-    "class": "icon-clock-11"
+    "class": "lu icon-clock-11"
     },
     {
     "name": "clock-12",
-    "class": "icon-clock-12"
+    "class": "lu icon-clock-12"
     },
     {
     "name": "clock-2",
-    "class": "icon-clock-2"
+    "class": "lu icon-clock-2"
     },
     {
     "name": "clock-3",
-    "class": "icon-clock-3"
+    "class": "lu icon-clock-3"
     },
     {
     "name": "clock-4",
-    "class": "icon-clock-4"
+    "class": "lu icon-clock-4"
     },
     {
     "name": "clock-5",
-    "class": "icon-clock-5"
+    "class": "lu icon-clock-5"
     },
     {
     "name": "clock-6",
-    "class": "icon-clock-6"
+    "class": "lu icon-clock-6"
     },
     {
     "name": "clock-7",
-    "class": "icon-clock-7"
+    "class": "lu icon-clock-7"
     },
     {
     "name": "clock-8",
-    "class": "icon-clock-8"
+    "class": "lu icon-clock-8"
     },
     {
     "name": "clock-9",
-    "class": "icon-clock-9"
+    "class": "lu icon-clock-9"
     },
     {
     "name": "clock-arrow-down",
-    "class": "icon-clock-arrow-down"
+    "class": "lu icon-clock-arrow-down"
     },
     {
     "name": "clock-arrow-up",
-    "class": "icon-clock-arrow-up"
+    "class": "lu icon-clock-arrow-up"
     },
     {
     "name": "clock",
-    "class": "icon-clock"
+    "class": "lu icon-clock"
     },
     {
     "name": "cloud-cog",
-    "class": "icon-cloud-cog"
+    "class": "lu icon-cloud-cog"
     },
     {
     "name": "cloud-download",
-    "class": "icon-cloud-download"
+    "class": "lu icon-cloud-download"
     },
     {
     "name": "cloud-drizzle",
-    "class": "icon-cloud-drizzle"
+    "class": "lu icon-cloud-drizzle"
     },
     {
     "name": "cloud-fog",
-    "class": "icon-cloud-fog"
+    "class": "lu icon-cloud-fog"
     },
     {
     "name": "cloud-hail",
-    "class": "icon-cloud-hail"
+    "class": "lu icon-cloud-hail"
     },
     {
     "name": "cloud-lightning",
-    "class": "icon-cloud-lightning"
+    "class": "lu icon-cloud-lightning"
     },
     {
     "name": "cloud-moon-rain",
-    "class": "icon-cloud-moon-rain"
+    "class": "lu icon-cloud-moon-rain"
     },
     {
     "name": "cloud-moon",
-    "class": "icon-cloud-moon"
+    "class": "lu icon-cloud-moon"
     },
     {
     "name": "cloud-off",
-    "class": "icon-cloud-off"
+    "class": "lu icon-cloud-off"
     },
     {
     "name": "cloud-rain-wind",
-    "class": "icon-cloud-rain-wind"
+    "class": "lu icon-cloud-rain-wind"
     },
     {
     "name": "cloud-rain",
-    "class": "icon-cloud-rain"
+    "class": "lu icon-cloud-rain"
     },
     {
     "name": "cloud-snow",
-    "class": "icon-cloud-snow"
+    "class": "lu icon-cloud-snow"
     },
     {
     "name": "cloud-sun-rain",
-    "class": "icon-cloud-sun-rain"
+    "class": "lu icon-cloud-sun-rain"
     },
     {
     "name": "cloud-sun",
-    "class": "icon-cloud-sun"
+    "class": "lu icon-cloud-sun"
     },
     {
     "name": "cloud-upload",
-    "class": "icon-cloud-upload"
+    "class": "lu icon-cloud-upload"
     },
     {
     "name": "cloud",
-    "class": "icon-cloud"
+    "class": "lu icon-cloud"
     },
     {
     "name": "cloudy",
-    "class": "icon-cloudy"
+    "class": "lu icon-cloudy"
     },
     {
     "name": "clover",
-    "class": "icon-clover"
+    "class": "lu icon-clover"
     },
     {
     "name": "club",
-    "class": "icon-club"
+    "class": "lu icon-club"
     },
     {
     "name": "code-xml",
-    "class": "icon-code-xml"
+    "class": "lu icon-code-xml"
     },
     {
     "name": "code",
-    "class": "icon-code"
+    "class": "lu icon-code"
     },
     {
     "name": "codepen",
-    "class": "icon-codepen"
+    "class": "lu icon-codepen"
     },
     {
     "name": "codesandbox",
-    "class": "icon-codesandbox"
+    "class": "lu icon-codesandbox"
     },
     {
     "name": "coffee",
-    "class": "icon-coffee"
+    "class": "lu icon-coffee"
     },
     {
     "name": "cog",
-    "class": "icon-cog"
+    "class": "lu icon-cog"
     },
     {
     "name": "coins",
-    "class": "icon-coins"
+    "class": "lu icon-coins"
     },
     {
     "name": "columns-2",
-    "class": "icon-columns-2"
+    "class": "lu icon-columns-2"
     },
     {
     "name": "columns-3",
-    "class": "icon-columns-3"
+    "class": "lu icon-columns-3"
     },
     {
     "name": "columns-4",
-    "class": "icon-columns-4"
+    "class": "lu icon-columns-4"
     },
     {
     "name": "combine",
-    "class": "icon-combine"
+    "class": "lu icon-combine"
     },
     {
     "name": "command",
-    "class": "icon-command"
+    "class": "lu icon-command"
     },
     {
     "name": "compass",
-    "class": "icon-compass"
+    "class": "lu icon-compass"
     },
     {
     "name": "component",
-    "class": "icon-component"
+    "class": "lu icon-component"
     },
     {
     "name": "computer",
-    "class": "icon-computer"
+    "class": "lu icon-computer"
     },
     {
     "name": "concierge-bell",
-    "class": "icon-concierge-bell"
+    "class": "lu icon-concierge-bell"
     },
     {
     "name": "cone",
-    "class": "icon-cone"
+    "class": "lu icon-cone"
     },
     {
     "name": "construction",
-    "class": "icon-construction"
+    "class": "lu icon-construction"
     },
     {
     "name": "contact-round",
-    "class": "icon-contact-round"
+    "class": "lu icon-contact-round"
     },
     {
     "name": "contact",
-    "class": "icon-contact"
+    "class": "lu icon-contact"
     },
     {
     "name": "container",
-    "class": "icon-container"
+    "class": "lu icon-container"
     },
     {
     "name": "contrast",
-    "class": "icon-contrast"
+    "class": "lu icon-contrast"
     },
     {
     "name": "cookie",
-    "class": "icon-cookie"
+    "class": "lu icon-cookie"
     },
     {
     "name": "cooking-pot",
-    "class": "icon-cooking-pot"
+    "class": "lu icon-cooking-pot"
     },
     {
     "name": "copy-check",
-    "class": "icon-copy-check"
+    "class": "lu icon-copy-check"
     },
     {
     "name": "copy-minus",
-    "class": "icon-copy-minus"
+    "class": "lu icon-copy-minus"
     },
     {
     "name": "copy-plus",
-    "class": "icon-copy-plus"
+    "class": "lu icon-copy-plus"
     },
     {
     "name": "copy-slash",
-    "class": "icon-copy-slash"
+    "class": "lu icon-copy-slash"
     },
     {
     "name": "copy-x",
-    "class": "icon-copy-x"
+    "class": "lu icon-copy-x"
     },
     {
     "name": "copy",
-    "class": "icon-copy"
+    "class": "lu icon-copy"
     },
     {
     "name": "copyleft",
-    "class": "icon-copyleft"
+    "class": "lu icon-copyleft"
     },
     {
     "name": "copyright",
-    "class": "icon-copyright"
+    "class": "lu icon-copyright"
     },
     {
     "name": "corner-down-left",
-    "class": "icon-corner-down-left"
+    "class": "lu icon-corner-down-left"
     },
     {
     "name": "corner-down-right",
-    "class": "icon-corner-down-right"
+    "class": "lu icon-corner-down-right"
     },
     {
     "name": "corner-left-down",
-    "class": "icon-corner-left-down"
+    "class": "lu icon-corner-left-down"
     },
     {
     "name": "corner-left-up",
-    "class": "icon-corner-left-up"
+    "class": "lu icon-corner-left-up"
     },
     {
     "name": "corner-right-down",
-    "class": "icon-corner-right-down"
+    "class": "lu icon-corner-right-down"
     },
     {
     "name": "corner-right-up",
-    "class": "icon-corner-right-up"
+    "class": "lu icon-corner-right-up"
     },
     {
     "name": "corner-up-left",
-    "class": "icon-corner-up-left"
+    "class": "lu icon-corner-up-left"
     },
     {
     "name": "corner-up-right",
-    "class": "icon-corner-up-right"
+    "class": "lu icon-corner-up-right"
     },
     {
     "name": "cpu",
-    "class": "icon-cpu"
+    "class": "lu icon-cpu"
     },
     {
     "name": "creative-commons",
-    "class": "icon-creative-commons"
+    "class": "lu icon-creative-commons"
     },
     {
     "name": "credit-card",
-    "class": "icon-credit-card"
+    "class": "lu icon-credit-card"
     },
     {
     "name": "croissant",
-    "class": "icon-croissant"
+    "class": "lu icon-croissant"
     },
     {
     "name": "crop",
-    "class": "icon-crop"
+    "class": "lu icon-crop"
     },
     {
     "name": "cross",
-    "class": "icon-cross"
+    "class": "lu icon-cross"
     },
     {
     "name": "crosshair",
-    "class": "icon-crosshair"
+    "class": "lu icon-crosshair"
     },
     {
     "name": "crown",
-    "class": "icon-crown"
+    "class": "lu icon-crown"
     },
     {
     "name": "cuboid",
-    "class": "icon-cuboid"
+    "class": "lu icon-cuboid"
     },
     {
     "name": "cup-soda",
-    "class": "icon-cup-soda"
+    "class": "lu icon-cup-soda"
     },
     {
     "name": "currency",
-    "class": "icon-currency"
+    "class": "lu icon-currency"
     },
     {
     "name": "cylinder",
-    "class": "icon-cylinder"
+    "class": "lu icon-cylinder"
     },
     {
     "name": "dam",
-    "class": "icon-dam"
+    "class": "lu icon-dam"
     },
     {
     "name": "database-backup",
-    "class": "icon-database-backup"
+    "class": "lu icon-database-backup"
     },
     {
     "name": "database-zap",
-    "class": "icon-database-zap"
+    "class": "lu icon-database-zap"
     },
     {
     "name": "database",
-    "class": "icon-database"
+    "class": "lu icon-database"
     },
     {
     "name": "delete",
-    "class": "icon-delete"
+    "class": "lu icon-delete"
     },
     {
     "name": "dessert",
-    "class": "icon-dessert"
+    "class": "lu icon-dessert"
     },
     {
     "name": "diameter",
-    "class": "icon-diameter"
+    "class": "lu icon-diameter"
     },
     {
     "name": "diamond-minus",
-    "class": "icon-diamond-minus"
+    "class": "lu icon-diamond-minus"
     },
     {
     "name": "diamond-percent",
-    "class": "icon-diamond-percent"
+    "class": "lu icon-diamond-percent"
     },
     {
     "name": "diamond-plus",
-    "class": "icon-diamond-plus"
+    "class": "lu icon-diamond-plus"
     },
     {
     "name": "diamond",
-    "class": "icon-diamond"
+    "class": "lu icon-diamond"
     },
     {
     "name": "dice-1",
-    "class": "icon-dice-1"
+    "class": "lu icon-dice-1"
     },
     {
     "name": "dice-2",
-    "class": "icon-dice-2"
+    "class": "lu icon-dice-2"
     },
     {
     "name": "dice-3",
-    "class": "icon-dice-3"
+    "class": "lu icon-dice-3"
     },
     {
     "name": "dice-4",
-    "class": "icon-dice-4"
+    "class": "lu icon-dice-4"
     },
     {
     "name": "dice-5",
-    "class": "icon-dice-5"
+    "class": "lu icon-dice-5"
     },
     {
     "name": "dice-6",
-    "class": "icon-dice-6"
+    "class": "lu icon-dice-6"
     },
     {
     "name": "dices",
-    "class": "icon-dices"
+    "class": "lu icon-dices"
     },
     {
     "name": "diff",
-    "class": "icon-diff"
+    "class": "lu icon-diff"
     },
     {
     "name": "disc-2",
-    "class": "icon-disc-2"
+    "class": "lu icon-disc-2"
     },
     {
     "name": "disc-3",
-    "class": "icon-disc-3"
+    "class": "lu icon-disc-3"
     },
     {
     "name": "disc-album",
-    "class": "icon-disc-album"
+    "class": "lu icon-disc-album"
     },
     {
     "name": "disc",
-    "class": "icon-disc"
+    "class": "lu icon-disc"
     },
     {
     "name": "divide",
-    "class": "icon-divide"
+    "class": "lu icon-divide"
     },
     {
     "name": "dna-off",
-    "class": "icon-dna-off"
+    "class": "lu icon-dna-off"
     },
     {
     "name": "dna",
-    "class": "icon-dna"
+    "class": "lu icon-dna"
     },
     {
     "name": "dock",
-    "class": "icon-dock"
+    "class": "lu icon-dock"
     },
     {
     "name": "dog",
-    "class": "icon-dog"
+    "class": "lu icon-dog"
     },
     {
     "name": "dollar-sign",
-    "class": "icon-dollar-sign"
+    "class": "lu icon-dollar-sign"
     },
     {
     "name": "donut",
-    "class": "icon-donut"
+    "class": "lu icon-donut"
     },
     {
     "name": "door-closed",
-    "class": "icon-door-closed"
+    "class": "lu icon-door-closed"
     },
     {
     "name": "door-open",
-    "class": "icon-door-open"
+    "class": "lu icon-door-open"
     },
     {
     "name": "dot",
-    "class": "icon-dot"
+    "class": "lu icon-dot"
     },
     {
     "name": "download",
-    "class": "icon-download"
+    "class": "lu icon-download"
     },
     {
     "name": "drafting-compass",
-    "class": "icon-drafting-compass"
+    "class": "lu icon-drafting-compass"
     },
     {
     "name": "drama",
-    "class": "icon-drama"
+    "class": "lu icon-drama"
     },
     {
     "name": "dribbble",
-    "class": "icon-dribbble"
+    "class": "lu icon-dribbble"
     },
     {
     "name": "drill",
-    "class": "icon-drill"
+    "class": "lu icon-drill"
     },
     {
     "name": "droplet",
-    "class": "icon-droplet"
+    "class": "lu icon-droplet"
     },
     {
     "name": "droplets",
-    "class": "icon-droplets"
+    "class": "lu icon-droplets"
     },
     {
     "name": "drum",
-    "class": "icon-drum"
+    "class": "lu icon-drum"
     },
     {
     "name": "drumstick",
-    "class": "icon-drumstick"
+    "class": "lu icon-drumstick"
     },
     {
     "name": "dumbbell",
-    "class": "icon-dumbbell"
+    "class": "lu icon-dumbbell"
     },
     {
     "name": "ear-off",
-    "class": "icon-ear-off"
+    "class": "lu icon-ear-off"
     },
     {
     "name": "ear",
-    "class": "icon-ear"
+    "class": "lu icon-ear"
     },
     {
     "name": "earth-lock",
-    "class": "icon-earth-lock"
+    "class": "lu icon-earth-lock"
     },
     {
     "name": "earth",
-    "class": "icon-earth"
+    "class": "lu icon-earth"
     },
     {
     "name": "eclipse",
-    "class": "icon-eclipse"
+    "class": "lu icon-eclipse"
     },
     {
     "name": "egg-fried",
-    "class": "icon-egg-fried"
+    "class": "lu icon-egg-fried"
     },
     {
     "name": "egg-off",
-    "class": "icon-egg-off"
+    "class": "lu icon-egg-off"
     },
     {
     "name": "egg",
-    "class": "icon-egg"
+    "class": "lu icon-egg"
     },
     {
     "name": "ellipsis-vertical",
-    "class": "icon-ellipsis-vertical"
+    "class": "lu icon-ellipsis-vertical"
     },
     {
     "name": "ellipsis",
-    "class": "icon-ellipsis"
+    "class": "lu icon-ellipsis"
     },
     {
     "name": "equal-not",
-    "class": "icon-equal-not"
+    "class": "lu icon-equal-not"
     },
     {
     "name": "equal",
-    "class": "icon-equal"
+    "class": "lu icon-equal"
     },
     {
     "name": "eraser",
-    "class": "icon-eraser"
+    "class": "lu icon-eraser"
     },
     {
     "name": "euro",
-    "class": "icon-euro"
+    "class": "lu icon-euro"
     },
     {
     "name": "expand",
-    "class": "icon-expand"
+    "class": "lu icon-expand"
     },
     {
     "name": "external-link",
-    "class": "icon-external-link"
+    "class": "lu icon-external-link"
     },
     {
     "name": "eye-off",
-    "class": "icon-eye-off"
+    "class": "lu icon-eye-off"
     },
     {
     "name": "eye",
-    "class": "icon-eye"
+    "class": "lu icon-eye"
     },
     {
     "name": "facebook",
-    "class": "icon-facebook"
+    "class": "lu icon-facebook"
     },
     {
     "name": "factory",
-    "class": "icon-factory"
+    "class": "lu icon-factory"
     },
     {
     "name": "fan",
-    "class": "icon-fan"
+    "class": "lu icon-fan"
     },
     {
     "name": "fast-forward",
-    "class": "icon-fast-forward"
+    "class": "lu icon-fast-forward"
     },
     {
     "name": "feather",
-    "class": "icon-feather"
+    "class": "lu icon-feather"
     },
     {
     "name": "fence",
-    "class": "icon-fence"
+    "class": "lu icon-fence"
     },
     {
     "name": "ferris-wheel",
-    "class": "icon-ferris-wheel"
+    "class": "lu icon-ferris-wheel"
     },
     {
     "name": "figma",
-    "class": "icon-figma"
+    "class": "lu icon-figma"
     },
     {
     "name": "file-archive",
-    "class": "icon-file-archive"
+    "class": "lu icon-file-archive"
     },
     {
     "name": "file-audio-2",
-    "class": "icon-file-audio-2"
+    "class": "lu icon-file-audio-2"
     },
     {
     "name": "file-audio",
-    "class": "icon-file-audio"
+    "class": "lu icon-file-audio"
     },
     {
     "name": "file-axis-3d",
-    "class": "icon-file-axis-3d"
+    "class": "lu icon-file-axis-3d"
     },
     {
     "name": "file-badge-2",
-    "class": "icon-file-badge-2"
+    "class": "lu icon-file-badge-2"
     },
     {
     "name": "file-badge",
-    "class": "icon-file-badge"
+    "class": "lu icon-file-badge"
     },
     {
     "name": "file-box",
-    "class": "icon-file-box"
+    "class": "lu icon-file-box"
     },
     {
     "name": "file-chart-column-increasing",
-    "class": "icon-file-chart-column-increasing"
+    "class": "lu icon-file-chart-column-increasing"
     },
     {
     "name": "file-chart-column",
-    "class": "icon-file-chart-column"
+    "class": "lu icon-file-chart-column"
     },
     {
     "name": "file-chart-line",
-    "class": "icon-file-chart-line"
+    "class": "lu icon-file-chart-line"
     },
     {
     "name": "file-chart-pie",
-    "class": "icon-file-chart-pie"
+    "class": "lu icon-file-chart-pie"
     },
     {
     "name": "file-check-2",
-    "class": "icon-file-check-2"
+    "class": "lu icon-file-check-2"
     },
     {
     "name": "file-check",
-    "class": "icon-file-check"
+    "class": "lu icon-file-check"
     },
     {
     "name": "file-clock",
-    "class": "icon-file-clock"
+    "class": "lu icon-file-clock"
     },
     {
     "name": "file-code-2",
-    "class": "icon-file-code-2"
+    "class": "lu icon-file-code-2"
     },
     {
     "name": "file-code",
-    "class": "icon-file-code"
+    "class": "lu icon-file-code"
     },
     {
     "name": "file-cog",
-    "class": "icon-file-cog"
+    "class": "lu icon-file-cog"
     },
     {
     "name": "file-diff",
-    "class": "icon-file-diff"
+    "class": "lu icon-file-diff"
     },
     {
     "name": "file-digit",
-    "class": "icon-file-digit"
+    "class": "lu icon-file-digit"
     },
     {
     "name": "file-down",
-    "class": "icon-file-down"
+    "class": "lu icon-file-down"
     },
     {
     "name": "file-heart",
-    "class": "icon-file-heart"
+    "class": "lu icon-file-heart"
     },
     {
     "name": "file-image",
-    "class": "icon-file-image"
+    "class": "lu icon-file-image"
     },
     {
     "name": "file-input",
-    "class": "icon-file-input"
+    "class": "lu icon-file-input"
     },
     {
     "name": "file-json-2",
-    "class": "icon-file-json-2"
+    "class": "lu icon-file-json-2"
     },
     {
     "name": "file-json",
-    "class": "icon-file-json"
+    "class": "lu icon-file-json"
     },
     {
     "name": "file-key-2",
-    "class": "icon-file-key-2"
+    "class": "lu icon-file-key-2"
     },
     {
     "name": "file-key",
-    "class": "icon-file-key"
+    "class": "lu icon-file-key"
     },
     {
     "name": "file-lock-2",
-    "class": "icon-file-lock-2"
+    "class": "lu icon-file-lock-2"
     },
     {
     "name": "file-lock",
-    "class": "icon-file-lock"
+    "class": "lu icon-file-lock"
     },
     {
     "name": "file-minus-2",
-    "class": "icon-file-minus-2"
+    "class": "lu icon-file-minus-2"
     },
     {
     "name": "file-minus",
-    "class": "icon-file-minus"
+    "class": "lu icon-file-minus"
     },
     {
     "name": "file-music",
-    "class": "icon-file-music"
+    "class": "lu icon-file-music"
     },
     {
     "name": "file-output",
-    "class": "icon-file-output"
+    "class": "lu icon-file-output"
     },
     {
     "name": "file-pen-line",
-    "class": "icon-file-pen-line"
+    "class": "lu icon-file-pen-line"
     },
     {
     "name": "file-pen",
-    "class": "icon-file-pen"
+    "class": "lu icon-file-pen"
     },
     {
     "name": "file-plus-2",
-    "class": "icon-file-plus-2"
+    "class": "lu icon-file-plus-2"
     },
     {
     "name": "file-plus",
-    "class": "icon-file-plus"
+    "class": "lu icon-file-plus"
     },
     {
     "name": "file-question",
-    "class": "icon-file-question"
+    "class": "lu icon-file-question"
     },
     {
     "name": "file-scan",
-    "class": "icon-file-scan"
+    "class": "lu icon-file-scan"
     },
     {
     "name": "file-search-2",
-    "class": "icon-file-search-2"
+    "class": "lu icon-file-search-2"
     },
     {
     "name": "file-search",
-    "class": "icon-file-search"
+    "class": "lu icon-file-search"
     },
     {
     "name": "file-sliders",
-    "class": "icon-file-sliders"
+    "class": "lu icon-file-sliders"
     },
     {
     "name": "file-spreadsheet",
-    "class": "icon-file-spreadsheet"
+    "class": "lu icon-file-spreadsheet"
     },
     {
     "name": "file-stack",
-    "class": "icon-file-stack"
+    "class": "lu icon-file-stack"
     },
     {
     "name": "file-symlink",
-    "class": "icon-file-symlink"
+    "class": "lu icon-file-symlink"
     },
     {
     "name": "file-terminal",
-    "class": "icon-file-terminal"
+    "class": "lu icon-file-terminal"
     },
     {
     "name": "file-text",
-    "class": "icon-file-text"
+    "class": "lu icon-file-text"
     },
     {
     "name": "file-type-2",
-    "class": "icon-file-type-2"
+    "class": "lu icon-file-type-2"
     },
     {
     "name": "file-type",
-    "class": "icon-file-type"
+    "class": "lu icon-file-type"
     },
     {
     "name": "file-up",
-    "class": "icon-file-up"
+    "class": "lu icon-file-up"
     },
     {
     "name": "file-video-2",
-    "class": "icon-file-video-2"
+    "class": "lu icon-file-video-2"
     },
     {
     "name": "file-video",
-    "class": "icon-file-video"
+    "class": "lu icon-file-video"
     },
     {
     "name": "file-volume-2",
-    "class": "icon-file-volume-2"
+    "class": "lu icon-file-volume-2"
     },
     {
     "name": "file-volume",
-    "class": "icon-file-volume"
+    "class": "lu icon-file-volume"
     },
     {
     "name": "file-warning",
-    "class": "icon-file-warning"
+    "class": "lu icon-file-warning"
     },
     {
     "name": "file-x-2",
-    "class": "icon-file-x-2"
+    "class": "lu icon-file-x-2"
     },
     {
     "name": "file-x",
-    "class": "icon-file-x"
+    "class": "lu icon-file-x"
     },
     {
     "name": "file",
-    "class": "icon-file"
+    "class": "lu icon-file"
     },
     {
     "name": "files",
-    "class": "icon-files"
+    "class": "lu icon-files"
     },
     {
     "name": "film",
-    "class": "icon-film"
+    "class": "lu icon-film"
     },
     {
     "name": "filter-x",
-    "class": "icon-filter-x"
+    "class": "lu icon-filter-x"
     },
     {
     "name": "filter",
-    "class": "icon-filter"
+    "class": "lu icon-filter"
     },
     {
     "name": "fingerprint",
-    "class": "icon-fingerprint"
+    "class": "lu icon-fingerprint"
     },
     {
     "name": "fire-extinguisher",
-    "class": "icon-fire-extinguisher"
+    "class": "lu icon-fire-extinguisher"
     },
     {
     "name": "fish-off",
-    "class": "icon-fish-off"
+    "class": "lu icon-fish-off"
     },
     {
     "name": "fish-symbol",
-    "class": "icon-fish-symbol"
+    "class": "lu icon-fish-symbol"
     },
     {
     "name": "fish",
-    "class": "icon-fish"
+    "class": "lu icon-fish"
     },
     {
     "name": "flag-off",
-    "class": "icon-flag-off"
+    "class": "lu icon-flag-off"
     },
     {
     "name": "flag-triangle-left",
-    "class": "icon-flag-triangle-left"
+    "class": "lu icon-flag-triangle-left"
     },
     {
     "name": "flag-triangle-right",
-    "class": "icon-flag-triangle-right"
+    "class": "lu icon-flag-triangle-right"
     },
     {
     "name": "flag",
-    "class": "icon-flag"
+    "class": "lu icon-flag"
     },
     {
     "name": "flame-kindling",
-    "class": "icon-flame-kindling"
+    "class": "lu icon-flame-kindling"
     },
     {
     "name": "flame",
-    "class": "icon-flame"
+    "class": "lu icon-flame"
     },
     {
     "name": "flashlight-off",
-    "class": "icon-flashlight-off"
+    "class": "lu icon-flashlight-off"
     },
     {
     "name": "flashlight",
-    "class": "icon-flashlight"
+    "class": "lu icon-flashlight"
     },
     {
     "name": "flask-conical-off",
-    "class": "icon-flask-conical-off"
+    "class": "lu icon-flask-conical-off"
     },
     {
     "name": "flask-conical",
-    "class": "icon-flask-conical"
+    "class": "lu icon-flask-conical"
     },
     {
     "name": "flask-round",
-    "class": "icon-flask-round"
+    "class": "lu icon-flask-round"
     },
     {
     "name": "flip-horizontal-2",
-    "class": "icon-flip-horizontal-2"
+    "class": "lu icon-flip-horizontal-2"
     },
     {
     "name": "flip-horizontal",
-    "class": "icon-flip-horizontal"
+    "class": "lu icon-flip-horizontal"
     },
     {
     "name": "flip-vertical-2",
-    "class": "icon-flip-vertical-2"
+    "class": "lu icon-flip-vertical-2"
     },
     {
     "name": "flip-vertical",
-    "class": "icon-flip-vertical"
+    "class": "lu icon-flip-vertical"
     },
     {
     "name": "flower-2",
-    "class": "icon-flower-2"
+    "class": "lu icon-flower-2"
     },
     {
     "name": "flower",
-    "class": "icon-flower"
+    "class": "lu icon-flower"
     },
     {
     "name": "focus",
-    "class": "icon-focus"
+    "class": "lu icon-focus"
     },
     {
     "name": "fold-horizontal",
-    "class": "icon-fold-horizontal"
+    "class": "lu icon-fold-horizontal"
     },
     {
     "name": "fold-vertical",
-    "class": "icon-fold-vertical"
+    "class": "lu icon-fold-vertical"
     },
     {
     "name": "folder-archive",
-    "class": "icon-folder-archive"
+    "class": "lu icon-folder-archive"
     },
     {
     "name": "folder-check",
-    "class": "icon-folder-check"
+    "class": "lu icon-folder-check"
     },
     {
     "name": "folder-clock",
-    "class": "icon-folder-clock"
+    "class": "lu icon-folder-clock"
     },
     {
     "name": "folder-closed",
-    "class": "icon-folder-closed"
+    "class": "lu icon-folder-closed"
     },
     {
     "name": "folder-code",
-    "class": "icon-folder-code"
+    "class": "lu icon-folder-code"
     },
     {
     "name": "folder-cog",
-    "class": "icon-folder-cog"
+    "class": "lu icon-folder-cog"
     },
     {
     "name": "folder-dot",
-    "class": "icon-folder-dot"
+    "class": "lu icon-folder-dot"
     },
     {
     "name": "folder-down",
-    "class": "icon-folder-down"
+    "class": "lu icon-folder-down"
     },
     {
     "name": "folder-git-2",
-    "class": "icon-folder-git-2"
+    "class": "lu icon-folder-git-2"
     },
     {
     "name": "folder-git",
-    "class": "icon-folder-git"
+    "class": "lu icon-folder-git"
     },
     {
     "name": "folder-heart",
-    "class": "icon-folder-heart"
+    "class": "lu icon-folder-heart"
     },
     {
     "name": "folder-input",
-    "class": "icon-folder-input"
+    "class": "lu icon-folder-input"
     },
     {
     "name": "folder-kanban",
-    "class": "icon-folder-kanban"
+    "class": "lu icon-folder-kanban"
     },
     {
     "name": "folder-key",
-    "class": "icon-folder-key"
+    "class": "lu icon-folder-key"
     },
     {
     "name": "folder-lock",
-    "class": "icon-folder-lock"
+    "class": "lu icon-folder-lock"
     },
     {
     "name": "folder-minus",
-    "class": "icon-folder-minus"
+    "class": "lu icon-folder-minus"
     },
     {
     "name": "folder-open-dot",
-    "class": "icon-folder-open-dot"
+    "class": "lu icon-folder-open-dot"
     },
     {
     "name": "folder-open",
-    "class": "icon-folder-open"
+    "class": "lu icon-folder-open"
     },
     {
     "name": "folder-output",
-    "class": "icon-folder-output"
+    "class": "lu icon-folder-output"
     },
     {
     "name": "folder-pen",
-    "class": "icon-folder-pen"
+    "class": "lu icon-folder-pen"
     },
     {
     "name": "folder-plus",
-    "class": "icon-folder-plus"
+    "class": "lu icon-folder-plus"
     },
     {
     "name": "folder-root",
-    "class": "icon-folder-root"
+    "class": "lu icon-folder-root"
     },
     {
     "name": "folder-search-2",
-    "class": "icon-folder-search-2"
+    "class": "lu icon-folder-search-2"
     },
     {
     "name": "folder-search",
-    "class": "icon-folder-search"
+    "class": "lu icon-folder-search"
     },
     {
     "name": "folder-symlink",
-    "class": "icon-folder-symlink"
+    "class": "lu icon-folder-symlink"
     },
     {
     "name": "folder-sync",
-    "class": "icon-folder-sync"
+    "class": "lu icon-folder-sync"
     },
     {
     "name": "folder-tree",
-    "class": "icon-folder-tree"
+    "class": "lu icon-folder-tree"
     },
     {
     "name": "folder-up",
-    "class": "icon-folder-up"
+    "class": "lu icon-folder-up"
     },
     {
     "name": "folder-x",
-    "class": "icon-folder-x"
+    "class": "lu icon-folder-x"
     },
     {
     "name": "folder",
-    "class": "icon-folder"
+    "class": "lu icon-folder"
     },
     {
     "name": "folders",
-    "class": "icon-folders"
+    "class": "lu icon-folders"
     },
     {
     "name": "footprints",
-    "class": "icon-footprints"
+    "class": "lu icon-footprints"
     },
     {
     "name": "forklift",
-    "class": "icon-forklift"
+    "class": "lu icon-forklift"
     },
     {
     "name": "forward",
-    "class": "icon-forward"
+    "class": "lu icon-forward"
     },
     {
     "name": "frame",
-    "class": "icon-frame"
+    "class": "lu icon-frame"
     },
     {
     "name": "framer",
-    "class": "icon-framer"
+    "class": "lu icon-framer"
     },
     {
     "name": "frown",
-    "class": "icon-frown"
+    "class": "lu icon-frown"
     },
     {
     "name": "fuel",
-    "class": "icon-fuel"
+    "class": "lu icon-fuel"
     },
     {
     "name": "fullscreen",
-    "class": "icon-fullscreen"
+    "class": "lu icon-fullscreen"
     },
     {
     "name": "gallery-horizontal-end",
-    "class": "icon-gallery-horizontal-end"
+    "class": "lu icon-gallery-horizontal-end"
     },
     {
     "name": "gallery-horizontal",
-    "class": "icon-gallery-horizontal"
+    "class": "lu icon-gallery-horizontal"
     },
     {
     "name": "gallery-thumbnails",
-    "class": "icon-gallery-thumbnails"
+    "class": "lu icon-gallery-thumbnails"
     },
     {
     "name": "gallery-vertical-end",
-    "class": "icon-gallery-vertical-end"
+    "class": "lu icon-gallery-vertical-end"
     },
     {
     "name": "gallery-vertical",
-    "class": "icon-gallery-vertical"
+    "class": "lu icon-gallery-vertical"
     },
     {
     "name": "gamepad-2",
-    "class": "icon-gamepad-2"
+    "class": "lu icon-gamepad-2"
     },
     {
     "name": "gamepad",
-    "class": "icon-gamepad"
+    "class": "lu icon-gamepad"
     },
     {
     "name": "gauge",
-    "class": "icon-gauge"
+    "class": "lu icon-gauge"
     },
     {
     "name": "gavel",
-    "class": "icon-gavel"
+    "class": "lu icon-gavel"
     },
     {
     "name": "gem",
-    "class": "icon-gem"
+    "class": "lu icon-gem"
     },
     {
     "name": "ghost",
-    "class": "icon-ghost"
+    "class": "lu icon-ghost"
     },
     {
     "name": "gift",
-    "class": "icon-gift"
+    "class": "lu icon-gift"
     },
     {
     "name": "git-branch-plus",
-    "class": "icon-git-branch-plus"
+    "class": "lu icon-git-branch-plus"
     },
     {
     "name": "git-branch",
-    "class": "icon-git-branch"
+    "class": "lu icon-git-branch"
     },
     {
     "name": "git-commit-horizontal",
-    "class": "icon-git-commit-horizontal"
+    "class": "lu icon-git-commit-horizontal"
     },
     {
     "name": "git-commit-vertical",
-    "class": "icon-git-commit-vertical"
+    "class": "lu icon-git-commit-vertical"
     },
     {
     "name": "git-compare-arrows",
-    "class": "icon-git-compare-arrows"
+    "class": "lu icon-git-compare-arrows"
     },
     {
     "name": "git-compare",
-    "class": "icon-git-compare"
+    "class": "lu icon-git-compare"
     },
     {
     "name": "git-fork",
-    "class": "icon-git-fork"
+    "class": "lu icon-git-fork"
     },
     {
     "name": "git-graph",
-    "class": "icon-git-graph"
+    "class": "lu icon-git-graph"
     },
     {
     "name": "git-merge",
-    "class": "icon-git-merge"
+    "class": "lu icon-git-merge"
     },
     {
     "name": "git-pull-request-arrow",
-    "class": "icon-git-pull-request-arrow"
+    "class": "lu icon-git-pull-request-arrow"
     },
     {
     "name": "git-pull-request-closed",
-    "class": "icon-git-pull-request-closed"
+    "class": "lu icon-git-pull-request-closed"
     },
     {
     "name": "git-pull-request-create-arrow",
-    "class": "icon-git-pull-request-create-arrow"
+    "class": "lu icon-git-pull-request-create-arrow"
     },
     {
     "name": "git-pull-request-create",
-    "class": "icon-git-pull-request-create"
+    "class": "lu icon-git-pull-request-create"
     },
     {
     "name": "git-pull-request-draft",
-    "class": "icon-git-pull-request-draft"
+    "class": "lu icon-git-pull-request-draft"
     },
     {
     "name": "git-pull-request",
-    "class": "icon-git-pull-request"
+    "class": "lu icon-git-pull-request"
     },
     {
     "name": "github",
-    "class": "icon-github"
+    "class": "lu icon-github"
     },
     {
     "name": "gitlab",
-    "class": "icon-gitlab"
+    "class": "lu icon-gitlab"
     },
     {
     "name": "glass-water",
-    "class": "icon-glass-water"
+    "class": "lu icon-glass-water"
     },
     {
     "name": "glasses",
-    "class": "icon-glasses"
+    "class": "lu icon-glasses"
     },
     {
     "name": "globe-lock",
-    "class": "icon-globe-lock"
+    "class": "lu icon-globe-lock"
     },
     {
     "name": "globe",
-    "class": "icon-globe"
+    "class": "lu icon-globe"
     },
     {
     "name": "goal",
-    "class": "icon-goal"
+    "class": "lu icon-goal"
     },
     {
     "name": "grab",
-    "class": "icon-grab"
+    "class": "lu icon-grab"
     },
     {
     "name": "graduation-cap",
-    "class": "icon-graduation-cap"
+    "class": "lu icon-graduation-cap"
     },
     {
     "name": "grape",
-    "class": "icon-grape"
+    "class": "lu icon-grape"
     },
     {
     "name": "grid-2x2-check",
-    "class": "icon-grid-2x2-check"
+    "class": "lu icon-grid-2x2-check"
     },
     {
     "name": "grid-2x2-x",
-    "class": "icon-grid-2x2-x"
+    "class": "lu icon-grid-2x2-x"
     },
     {
     "name": "grid-2x2",
-    "class": "icon-grid-2x2"
+    "class": "lu icon-grid-2x2"
     },
     {
     "name": "grid-3x3",
-    "class": "icon-grid-3x3"
+    "class": "lu icon-grid-3x3"
     },
     {
     "name": "grip-horizontal",
-    "class": "icon-grip-horizontal"
+    "class": "lu icon-grip-horizontal"
     },
     {
     "name": "grip-vertical",
-    "class": "icon-grip-vertical"
+    "class": "lu icon-grip-vertical"
     },
     {
     "name": "grip",
-    "class": "icon-grip"
+    "class": "lu icon-grip"
     },
     {
     "name": "group",
-    "class": "icon-group"
+    "class": "lu icon-group"
     },
     {
     "name": "guitar",
-    "class": "icon-guitar"
+    "class": "lu icon-guitar"
     },
     {
     "name": "ham",
-    "class": "icon-ham"
+    "class": "lu icon-ham"
     },
     {
     "name": "hammer",
-    "class": "icon-hammer"
+    "class": "lu icon-hammer"
     },
     {
     "name": "hand-coins",
-    "class": "icon-hand-coins"
+    "class": "lu icon-hand-coins"
     },
     {
     "name": "hand-heart",
-    "class": "icon-hand-heart"
+    "class": "lu icon-hand-heart"
     },
     {
     "name": "hand-helping",
-    "class": "icon-hand-helping"
+    "class": "lu icon-hand-helping"
     },
     {
     "name": "hand-metal",
-    "class": "icon-hand-metal"
+    "class": "lu icon-hand-metal"
     },
     {
     "name": "hand-platter",
-    "class": "icon-hand-platter"
+    "class": "lu icon-hand-platter"
     },
     {
     "name": "hand",
-    "class": "icon-hand"
+    "class": "lu icon-hand"
     },
     {
     "name": "handshake",
-    "class": "icon-handshake"
+    "class": "lu icon-handshake"
     },
     {
     "name": "hard-drive-download",
-    "class": "icon-hard-drive-download"
+    "class": "lu icon-hard-drive-download"
     },
     {
     "name": "hard-drive-upload",
-    "class": "icon-hard-drive-upload"
+    "class": "lu icon-hard-drive-upload"
     },
     {
     "name": "hard-drive",
-    "class": "icon-hard-drive"
+    "class": "lu icon-hard-drive"
     },
     {
     "name": "hard-hat",
-    "class": "icon-hard-hat"
+    "class": "lu icon-hard-hat"
     },
     {
     "name": "hash",
-    "class": "icon-hash"
+    "class": "lu icon-hash"
     },
     {
     "name": "haze",
-    "class": "icon-haze"
+    "class": "lu icon-haze"
     },
     {
     "name": "hdmi-port",
-    "class": "icon-hdmi-port"
+    "class": "lu icon-hdmi-port"
     },
     {
     "name": "heading-1",
-    "class": "icon-heading-1"
+    "class": "lu icon-heading-1"
     },
     {
     "name": "heading-2",
-    "class": "icon-heading-2"
+    "class": "lu icon-heading-2"
     },
     {
     "name": "heading-3",
-    "class": "icon-heading-3"
+    "class": "lu icon-heading-3"
     },
     {
     "name": "heading-4",
-    "class": "icon-heading-4"
+    "class": "lu icon-heading-4"
     },
     {
     "name": "heading-5",
-    "class": "icon-heading-5"
+    "class": "lu icon-heading-5"
     },
     {
     "name": "heading-6",
-    "class": "icon-heading-6"
+    "class": "lu icon-heading-6"
     },
     {
     "name": "heading",
-    "class": "icon-heading"
+    "class": "lu icon-heading"
     },
     {
     "name": "headphones",
-    "class": "icon-headphones"
+    "class": "lu icon-headphones"
     },
     {
     "name": "headset",
-    "class": "icon-headset"
+    "class": "lu icon-headset"
     },
     {
     "name": "heart-crack",
-    "class": "icon-heart-crack"
+    "class": "lu icon-heart-crack"
     },
     {
     "name": "heart-handshake",
-    "class": "icon-heart-handshake"
+    "class": "lu icon-heart-handshake"
     },
     {
     "name": "heart-off",
-    "class": "icon-heart-off"
+    "class": "lu icon-heart-off"
     },
     {
     "name": "heart-pulse",
-    "class": "icon-heart-pulse"
+    "class": "lu icon-heart-pulse"
     },
     {
     "name": "heart",
-    "class": "icon-heart"
+    "class": "lu icon-heart"
     },
     {
     "name": "heater",
-    "class": "icon-heater"
+    "class": "lu icon-heater"
     },
     {
     "name": "hexagon",
-    "class": "icon-hexagon"
+    "class": "lu icon-hexagon"
     },
     {
     "name": "highlighter",
-    "class": "icon-highlighter"
+    "class": "lu icon-highlighter"
     },
     {
     "name": "history",
-    "class": "icon-history"
+    "class": "lu icon-history"
     },
     {
     "name": "hop-off",
-    "class": "icon-hop-off"
+    "class": "lu icon-hop-off"
     },
     {
     "name": "hop",
-    "class": "icon-hop"
+    "class": "lu icon-hop"
     },
     {
     "name": "hospital",
-    "class": "icon-hospital"
+    "class": "lu icon-hospital"
     },
     {
     "name": "hotel",
-    "class": "icon-hotel"
+    "class": "lu icon-hotel"
     },
     {
     "name": "hourglass",
-    "class": "icon-hourglass"
+    "class": "lu icon-hourglass"
     },
     {
     "name": "house-plug",
-    "class": "icon-house-plug"
+    "class": "lu icon-house-plug"
     },
     {
     "name": "house-plus",
-    "class": "icon-house-plus"
+    "class": "lu icon-house-plus"
     },
     {
     "name": "house",
-    "class": "icon-house"
+    "class": "lu icon-house"
     },
     {
     "name": "ice-cream-bowl",
-    "class": "icon-ice-cream-bowl"
+    "class": "lu icon-ice-cream-bowl"
     },
     {
     "name": "ice-cream-cone",
-    "class": "icon-ice-cream-cone"
+    "class": "lu icon-ice-cream-cone"
     },
     {
     "name": "id-card",
-    "class": "icon-id-card"
+    "class": "lu icon-id-card"
     },
     {
     "name": "image-down",
-    "class": "icon-image-down"
+    "class": "lu icon-image-down"
     },
     {
     "name": "image-minus",
-    "class": "icon-image-minus"
+    "class": "lu icon-image-minus"
     },
     {
     "name": "image-off",
-    "class": "icon-image-off"
+    "class": "lu icon-image-off"
     },
     {
     "name": "image-play",
-    "class": "icon-image-play"
+    "class": "lu icon-image-play"
     },
     {
     "name": "image-plus",
-    "class": "icon-image-plus"
+    "class": "lu icon-image-plus"
     },
     {
     "name": "image-up",
-    "class": "icon-image-up"
+    "class": "lu icon-image-up"
     },
     {
     "name": "image",
-    "class": "icon-image"
+    "class": "lu icon-image"
     },
     {
     "name": "images",
-    "class": "icon-images"
+    "class": "lu icon-images"
     },
     {
     "name": "import",
-    "class": "icon-import"
+    "class": "lu icon-import"
     },
     {
     "name": "inbox",
-    "class": "icon-inbox"
+    "class": "lu icon-inbox"
     },
     {
     "name": "indent-decrease",
-    "class": "icon-indent-decrease"
+    "class": "lu icon-indent-decrease"
     },
     {
     "name": "indent-increase",
-    "class": "icon-indent-increase"
+    "class": "lu icon-indent-increase"
     },
     {
     "name": "indian-rupee",
-    "class": "icon-indian-rupee"
+    "class": "lu icon-indian-rupee"
     },
     {
     "name": "infinity",
-    "class": "icon-infinity"
+    "class": "lu icon-infinity"
     },
     {
     "name": "info",
-    "class": "icon-info"
+    "class": "lu icon-info"
     },
     {
     "name": "inspection-panel",
-    "class": "icon-inspection-panel"
+    "class": "lu icon-inspection-panel"
     },
     {
     "name": "instagram",
-    "class": "icon-instagram"
+    "class": "lu icon-instagram"
     },
     {
     "name": "italic",
-    "class": "icon-italic"
+    "class": "lu icon-italic"
     },
     {
     "name": "iteration-ccw",
-    "class": "icon-iteration-ccw"
+    "class": "lu icon-iteration-ccw"
     },
     {
     "name": "iteration-cw",
-    "class": "icon-iteration-cw"
+    "class": "lu icon-iteration-cw"
     },
     {
     "name": "japanese-yen",
-    "class": "icon-japanese-yen"
+    "class": "lu icon-japanese-yen"
     },
     {
     "name": "joystick",
-    "class": "icon-joystick"
+    "class": "lu icon-joystick"
     },
     {
     "name": "kanban",
-    "class": "icon-kanban"
+    "class": "lu icon-kanban"
     },
     {
     "name": "key-round",
-    "class": "icon-key-round"
+    "class": "lu icon-key-round"
     },
     {
     "name": "key-square",
-    "class": "icon-key-square"
+    "class": "lu icon-key-square"
     },
     {
     "name": "key",
-    "class": "icon-key"
+    "class": "lu icon-key"
     },
     {
     "name": "keyboard-music",
-    "class": "icon-keyboard-music"
+    "class": "lu icon-keyboard-music"
     },
     {
     "name": "keyboard-off",
-    "class": "icon-keyboard-off"
+    "class": "lu icon-keyboard-off"
     },
     {
     "name": "keyboard",
-    "class": "icon-keyboard"
+    "class": "lu icon-keyboard"
     },
     {
     "name": "lamp-ceiling",
-    "class": "icon-lamp-ceiling"
+    "class": "lu icon-lamp-ceiling"
     },
     {
     "name": "lamp-desk",
-    "class": "icon-lamp-desk"
+    "class": "lu icon-lamp-desk"
     },
     {
     "name": "lamp-floor",
-    "class": "icon-lamp-floor"
+    "class": "lu icon-lamp-floor"
     },
     {
     "name": "lamp-wall-down",
-    "class": "icon-lamp-wall-down"
+    "class": "lu icon-lamp-wall-down"
     },
     {
     "name": "lamp-wall-up",
-    "class": "icon-lamp-wall-up"
+    "class": "lu icon-lamp-wall-up"
     },
     {
     "name": "lamp",
-    "class": "icon-lamp"
+    "class": "lu icon-lamp"
     },
     {
     "name": "land-plot",
-    "class": "icon-land-plot"
+    "class": "lu icon-land-plot"
     },
     {
     "name": "landmark",
-    "class": "icon-landmark"
+    "class": "lu icon-landmark"
     },
     {
     "name": "languages",
-    "class": "icon-languages"
+    "class": "lu icon-languages"
     },
     {
     "name": "laptop-minimal",
-    "class": "icon-laptop-minimal"
+    "class": "lu icon-laptop-minimal"
     },
     {
     "name": "laptop",
-    "class": "icon-laptop"
+    "class": "lu icon-laptop"
     },
     {
     "name": "lasso-select",
-    "class": "icon-lasso-select"
+    "class": "lu icon-lasso-select"
     },
     {
     "name": "lasso",
-    "class": "icon-lasso"
+    "class": "lu icon-lasso"
     },
     {
     "name": "laugh",
-    "class": "icon-laugh"
+    "class": "lu icon-laugh"
     },
     {
     "name": "layers-2",
-    "class": "icon-layers-2"
+    "class": "lu icon-layers-2"
     },
     {
     "name": "layers-3",
-    "class": "icon-layers-3"
+    "class": "lu icon-layers-3"
     },
     {
     "name": "layers",
-    "class": "icon-layers"
+    "class": "lu icon-layers"
     },
     {
     "name": "layout-dashboard",
-    "class": "icon-layout-dashboard"
+    "class": "lu icon-layout-dashboard"
     },
     {
     "name": "layout-grid",
-    "class": "icon-layout-grid"
+    "class": "lu icon-layout-grid"
     },
     {
     "name": "layout-list",
-    "class": "icon-layout-list"
+    "class": "lu icon-layout-list"
     },
     {
     "name": "layout-panel-left",
-    "class": "icon-layout-panel-left"
+    "class": "lu icon-layout-panel-left"
     },
     {
     "name": "layout-panel-top",
-    "class": "icon-layout-panel-top"
+    "class": "lu icon-layout-panel-top"
     },
     {
     "name": "layout-template",
-    "class": "icon-layout-template"
+    "class": "lu icon-layout-template"
     },
     {
     "name": "leaf",
-    "class": "icon-leaf"
+    "class": "lu icon-leaf"
     },
     {
     "name": "leafy-green",
-    "class": "icon-leafy-green"
+    "class": "lu icon-leafy-green"
     },
     {
     "name": "lectern",
-    "class": "icon-lectern"
+    "class": "lu icon-lectern"
     },
     {
     "name": "letter-text",
-    "class": "icon-letter-text"
+    "class": "lu icon-letter-text"
     },
     {
     "name": "library-big",
-    "class": "icon-library-big"
+    "class": "lu icon-library-big"
     },
     {
     "name": "library",
-    "class": "icon-library"
+    "class": "lu icon-library"
     },
     {
     "name": "life-buoy",
-    "class": "icon-life-buoy"
+    "class": "lu icon-life-buoy"
     },
     {
     "name": "ligature",
-    "class": "icon-ligature"
+    "class": "lu icon-ligature"
     },
     {
     "name": "lightbulb-off",
-    "class": "icon-lightbulb-off"
+    "class": "lu icon-lightbulb-off"
     },
     {
     "name": "lightbulb",
-    "class": "icon-lightbulb"
+    "class": "lu icon-lightbulb"
     },
     {
     "name": "link-2-off",
-    "class": "icon-link-2-off"
+    "class": "lu icon-link-2-off"
     },
     {
     "name": "link-2",
-    "class": "icon-link-2"
+    "class": "lu icon-link-2"
     },
     {
     "name": "link",
-    "class": "icon-link"
+    "class": "lu icon-link"
     },
     {
     "name": "linkedin",
-    "class": "icon-linkedin"
+    "class": "lu icon-linkedin"
     },
     {
     "name": "list-check",
-    "class": "icon-list-check"
+    "class": "lu icon-list-check"
     },
     {
     "name": "list-checks",
-    "class": "icon-list-checks"
+    "class": "lu icon-list-checks"
     },
     {
     "name": "list-collapse",
-    "class": "icon-list-collapse"
+    "class": "lu icon-list-collapse"
     },
     {
     "name": "list-end",
-    "class": "icon-list-end"
+    "class": "lu icon-list-end"
     },
     {
     "name": "list-filter",
-    "class": "icon-list-filter"
+    "class": "lu icon-list-filter"
     },
     {
     "name": "list-minus",
-    "class": "icon-list-minus"
+    "class": "lu icon-list-minus"
     },
     {
     "name": "list-music",
-    "class": "icon-list-music"
+    "class": "lu icon-list-music"
     },
     {
     "name": "list-ordered",
-    "class": "icon-list-ordered"
+    "class": "lu icon-list-ordered"
     },
     {
     "name": "list-plus",
-    "class": "icon-list-plus"
+    "class": "lu icon-list-plus"
     },
     {
     "name": "list-restart",
-    "class": "icon-list-restart"
+    "class": "lu icon-list-restart"
     },
     {
     "name": "list-start",
-    "class": "icon-list-start"
+    "class": "lu icon-list-start"
     },
     {
     "name": "list-todo",
-    "class": "icon-list-todo"
+    "class": "lu icon-list-todo"
     },
     {
     "name": "list-tree",
-    "class": "icon-list-tree"
+    "class": "lu icon-list-tree"
     },
     {
     "name": "list-video",
-    "class": "icon-list-video"
+    "class": "lu icon-list-video"
     },
     {
     "name": "list-x",
-    "class": "icon-list-x"
+    "class": "lu icon-list-x"
     },
     {
     "name": "list",
-    "class": "icon-list"
+    "class": "lu icon-list"
     },
     {
     "name": "loader-circle",
-    "class": "icon-loader-circle"
+    "class": "lu icon-loader-circle"
     },
     {
     "name": "loader-pinwheel",
-    "class": "icon-loader-pinwheel"
+    "class": "lu icon-loader-pinwheel"
     },
     {
     "name": "loader",
-    "class": "icon-loader"
+    "class": "lu icon-loader"
     },
     {
     "name": "locate-fixed",
-    "class": "icon-locate-fixed"
+    "class": "lu icon-locate-fixed"
     },
     {
     "name": "locate-off",
-    "class": "icon-locate-off"
+    "class": "lu icon-locate-off"
     },
     {
     "name": "locate",
-    "class": "icon-locate"
+    "class": "lu icon-locate"
     },
     {
     "name": "lock-keyhole-open",
-    "class": "icon-lock-keyhole-open"
+    "class": "lu icon-lock-keyhole-open"
     },
     {
     "name": "lock-keyhole",
-    "class": "icon-lock-keyhole"
+    "class": "lu icon-lock-keyhole"
     },
     {
     "name": "lock-open",
-    "class": "icon-lock-open"
+    "class": "lu icon-lock-open"
     },
     {
     "name": "lock",
-    "class": "icon-lock"
+    "class": "lu icon-lock"
     },
     {
     "name": "log-in",
-    "class": "icon-log-in"
+    "class": "lu icon-log-in"
     },
     {
     "name": "log-out",
-    "class": "icon-log-out"
+    "class": "lu icon-log-out"
     },
     {
     "name": "logs",
-    "class": "icon-logs"
+    "class": "lu icon-logs"
     },
     {
     "name": "lollipop",
-    "class": "icon-lollipop"
+    "class": "lu icon-lollipop"
     },
     {
     "name": "luggage",
-    "class": "icon-luggage"
+    "class": "lu icon-luggage"
     },
     {
     "name": "magnet",
-    "class": "icon-magnet"
+    "class": "lu icon-magnet"
     },
     {
     "name": "mail-check",
-    "class": "icon-mail-check"
+    "class": "lu icon-mail-check"
     },
     {
     "name": "mail-minus",
-    "class": "icon-mail-minus"
+    "class": "lu icon-mail-minus"
     },
     {
     "name": "mail-open",
-    "class": "icon-mail-open"
+    "class": "lu icon-mail-open"
     },
     {
     "name": "mail-plus",
-    "class": "icon-mail-plus"
+    "class": "lu icon-mail-plus"
     },
     {
     "name": "mail-question",
-    "class": "icon-mail-question"
+    "class": "lu icon-mail-question"
     },
     {
     "name": "mail-search",
-    "class": "icon-mail-search"
+    "class": "lu icon-mail-search"
     },
     {
     "name": "mail-warning",
-    "class": "icon-mail-warning"
+    "class": "lu icon-mail-warning"
     },
     {
     "name": "mail-x",
-    "class": "icon-mail-x"
+    "class": "lu icon-mail-x"
     },
     {
     "name": "mail",
-    "class": "icon-mail"
+    "class": "lu icon-mail"
     },
     {
     "name": "mailbox",
-    "class": "icon-mailbox"
+    "class": "lu icon-mailbox"
     },
     {
     "name": "mails",
-    "class": "icon-mails"
+    "class": "lu icon-mails"
     },
     {
     "name": "map-pin-check-inside",
-    "class": "icon-map-pin-check-inside"
+    "class": "lu icon-map-pin-check-inside"
     },
     {
     "name": "map-pin-check",
-    "class": "icon-map-pin-check"
+    "class": "lu icon-map-pin-check"
     },
     {
     "name": "map-pin-house",
-    "class": "icon-map-pin-house"
+    "class": "lu icon-map-pin-house"
     },
     {
     "name": "map-pin-minus-inside",
-    "class": "icon-map-pin-minus-inside"
+    "class": "lu icon-map-pin-minus-inside"
     },
     {
     "name": "map-pin-minus",
-    "class": "icon-map-pin-minus"
+    "class": "lu icon-map-pin-minus"
     },
     {
     "name": "map-pin-off",
-    "class": "icon-map-pin-off"
+    "class": "lu icon-map-pin-off"
     },
     {
     "name": "map-pin-plus-inside",
-    "class": "icon-map-pin-plus-inside"
+    "class": "lu icon-map-pin-plus-inside"
     },
     {
     "name": "map-pin-plus",
-    "class": "icon-map-pin-plus"
+    "class": "lu icon-map-pin-plus"
     },
     {
     "name": "map-pin-x-inside",
-    "class": "icon-map-pin-x-inside"
+    "class": "lu icon-map-pin-x-inside"
     },
     {
     "name": "map-pin-x",
-    "class": "icon-map-pin-x"
+    "class": "lu icon-map-pin-x"
     },
     {
     "name": "map-pin",
-    "class": "icon-map-pin"
+    "class": "lu icon-map-pin"
     },
     {
     "name": "map-pinned",
-    "class": "icon-map-pinned"
+    "class": "lu icon-map-pinned"
     },
     {
     "name": "map",
-    "class": "icon-map"
+    "class": "lu icon-map"
     },
     {
     "name": "martini",
-    "class": "icon-martini"
+    "class": "lu icon-martini"
     },
     {
     "name": "maximize-2",
-    "class": "icon-maximize-2"
+    "class": "lu icon-maximize-2"
     },
     {
     "name": "maximize",
-    "class": "icon-maximize"
+    "class": "lu icon-maximize"
     },
     {
     "name": "medal",
-    "class": "icon-medal"
+    "class": "lu icon-medal"
     },
     {
     "name": "megaphone-off",
-    "class": "icon-megaphone-off"
+    "class": "lu icon-megaphone-off"
     },
     {
     "name": "megaphone",
-    "class": "icon-megaphone"
+    "class": "lu icon-megaphone"
     },
     {
     "name": "meh",
-    "class": "icon-meh"
+    "class": "lu icon-meh"
     },
     {
     "name": "memory-stick",
-    "class": "icon-memory-stick"
+    "class": "lu icon-memory-stick"
     },
     {
     "name": "menu",
-    "class": "icon-menu"
+    "class": "lu icon-menu"
     },
     {
     "name": "merge",
-    "class": "icon-merge"
+    "class": "lu icon-merge"
     },
     {
     "name": "message-circle-code",
-    "class": "icon-message-circle-code"
+    "class": "lu icon-message-circle-code"
     },
     {
     "name": "message-circle-dashed",
-    "class": "icon-message-circle-dashed"
+    "class": "lu icon-message-circle-dashed"
     },
     {
     "name": "message-circle-heart",
-    "class": "icon-message-circle-heart"
+    "class": "lu icon-message-circle-heart"
     },
     {
     "name": "message-circle-more",
-    "class": "icon-message-circle-more"
+    "class": "lu icon-message-circle-more"
     },
     {
     "name": "message-circle-off",
-    "class": "icon-message-circle-off"
+    "class": "lu icon-message-circle-off"
     },
     {
     "name": "message-circle-plus",
-    "class": "icon-message-circle-plus"
+    "class": "lu icon-message-circle-plus"
     },
     {
     "name": "message-circle-question",
-    "class": "icon-message-circle-question"
+    "class": "lu icon-message-circle-question"
     },
     {
     "name": "message-circle-reply",
-    "class": "icon-message-circle-reply"
+    "class": "lu icon-message-circle-reply"
     },
     {
     "name": "message-circle-warning",
-    "class": "icon-message-circle-warning"
+    "class": "lu icon-message-circle-warning"
     },
     {
     "name": "message-circle-x",
-    "class": "icon-message-circle-x"
+    "class": "lu icon-message-circle-x"
     },
     {
     "name": "message-circle",
-    "class": "icon-message-circle"
+    "class": "lu icon-message-circle"
     },
     {
     "name": "message-square-code",
-    "class": "icon-message-square-code"
+    "class": "lu icon-message-square-code"
     },
     {
     "name": "message-square-dashed",
-    "class": "icon-message-square-dashed"
+    "class": "lu icon-message-square-dashed"
     },
     {
     "name": "message-square-diff",
-    "class": "icon-message-square-diff"
+    "class": "lu icon-message-square-diff"
     },
     {
     "name": "message-square-dot",
-    "class": "icon-message-square-dot"
+    "class": "lu icon-message-square-dot"
     },
     {
     "name": "message-square-heart",
-    "class": "icon-message-square-heart"
+    "class": "lu icon-message-square-heart"
     },
     {
     "name": "message-square-more",
-    "class": "icon-message-square-more"
+    "class": "lu icon-message-square-more"
     },
     {
     "name": "message-square-off",
-    "class": "icon-message-square-off"
+    "class": "lu icon-message-square-off"
     },
     {
     "name": "message-square-plus",
-    "class": "icon-message-square-plus"
+    "class": "lu icon-message-square-plus"
     },
     {
     "name": "message-square-quote",
-    "class": "icon-message-square-quote"
+    "class": "lu icon-message-square-quote"
     },
     {
     "name": "message-square-reply",
-    "class": "icon-message-square-reply"
+    "class": "lu icon-message-square-reply"
     },
     {
     "name": "message-square-share",
-    "class": "icon-message-square-share"
+    "class": "lu icon-message-square-share"
     },
     {
     "name": "message-square-text",
-    "class": "icon-message-square-text"
+    "class": "lu icon-message-square-text"
     },
     {
     "name": "message-square-warning",
-    "class": "icon-message-square-warning"
+    "class": "lu icon-message-square-warning"
     },
     {
     "name": "message-square-x",
-    "class": "icon-message-square-x"
+    "class": "lu icon-message-square-x"
     },
     {
     "name": "message-square",
-    "class": "icon-message-square"
+    "class": "lu icon-message-square"
     },
     {
     "name": "messages-square",
-    "class": "icon-messages-square"
+    "class": "lu icon-messages-square"
     },
     {
     "name": "mic-off",
-    "class": "icon-mic-off"
+    "class": "lu icon-mic-off"
     },
     {
     "name": "mic-vocal",
-    "class": "icon-mic-vocal"
+    "class": "lu icon-mic-vocal"
     },
     {
     "name": "mic",
-    "class": "icon-mic"
+    "class": "lu icon-mic"
     },
     {
     "name": "microchip",
-    "class": "icon-microchip"
+    "class": "lu icon-microchip"
     },
     {
     "name": "microscope",
-    "class": "icon-microscope"
+    "class": "lu icon-microscope"
     },
     {
     "name": "microwave",
-    "class": "icon-microwave"
+    "class": "lu icon-microwave"
     },
     {
     "name": "milestone",
-    "class": "icon-milestone"
+    "class": "lu icon-milestone"
     },
     {
     "name": "milk-off",
-    "class": "icon-milk-off"
+    "class": "lu icon-milk-off"
     },
     {
     "name": "milk",
-    "class": "icon-milk"
+    "class": "lu icon-milk"
     },
     {
     "name": "minimize-2",
-    "class": "icon-minimize-2"
+    "class": "lu icon-minimize-2"
     },
     {
     "name": "minimize",
-    "class": "icon-minimize"
+    "class": "lu icon-minimize"
     },
     {
     "name": "minus",
-    "class": "icon-minus"
+    "class": "lu icon-minus"
     },
     {
     "name": "monitor-check",
-    "class": "icon-monitor-check"
+    "class": "lu icon-monitor-check"
     },
     {
     "name": "monitor-cog",
-    "class": "icon-monitor-cog"
+    "class": "lu icon-monitor-cog"
     },
     {
     "name": "monitor-dot",
-    "class": "icon-monitor-dot"
+    "class": "lu icon-monitor-dot"
     },
     {
     "name": "monitor-down",
-    "class": "icon-monitor-down"
+    "class": "lu icon-monitor-down"
     },
     {
     "name": "monitor-off",
-    "class": "icon-monitor-off"
+    "class": "lu icon-monitor-off"
     },
     {
     "name": "monitor-pause",
-    "class": "icon-monitor-pause"
+    "class": "lu icon-monitor-pause"
     },
     {
     "name": "monitor-play",
-    "class": "icon-monitor-play"
+    "class": "lu icon-monitor-play"
     },
     {
     "name": "monitor-smartphone",
-    "class": "icon-monitor-smartphone"
+    "class": "lu icon-monitor-smartphone"
     },
     {
     "name": "monitor-speaker",
-    "class": "icon-monitor-speaker"
+    "class": "lu icon-monitor-speaker"
     },
     {
     "name": "monitor-stop",
-    "class": "icon-monitor-stop"
+    "class": "lu icon-monitor-stop"
     },
     {
     "name": "monitor-up",
-    "class": "icon-monitor-up"
+    "class": "lu icon-monitor-up"
     },
     {
     "name": "monitor-x",
-    "class": "icon-monitor-x"
+    "class": "lu icon-monitor-x"
     },
     {
     "name": "monitor",
-    "class": "icon-monitor"
+    "class": "lu icon-monitor"
     },
     {
     "name": "moon-star",
-    "class": "icon-moon-star"
+    "class": "lu icon-moon-star"
     },
     {
     "name": "moon",
-    "class": "icon-moon"
+    "class": "lu icon-moon"
     },
     {
     "name": "mountain-snow",
-    "class": "icon-mountain-snow"
+    "class": "lu icon-mountain-snow"
     },
     {
     "name": "mountain",
-    "class": "icon-mountain"
+    "class": "lu icon-mountain"
     },
     {
     "name": "mouse-off",
-    "class": "icon-mouse-off"
+    "class": "lu icon-mouse-off"
     },
     {
     "name": "mouse-pointer-2",
-    "class": "icon-mouse-pointer-2"
+    "class": "lu icon-mouse-pointer-2"
     },
     {
     "name": "mouse-pointer-ban",
-    "class": "icon-mouse-pointer-ban"
+    "class": "lu icon-mouse-pointer-ban"
     },
     {
     "name": "mouse-pointer-click",
-    "class": "icon-mouse-pointer-click"
+    "class": "lu icon-mouse-pointer-click"
     },
     {
     "name": "mouse-pointer",
-    "class": "icon-mouse-pointer"
+    "class": "lu icon-mouse-pointer"
     },
     {
     "name": "mouse",
-    "class": "icon-mouse"
+    "class": "lu icon-mouse"
     },
     {
     "name": "move-3d",
-    "class": "icon-move-3d"
+    "class": "lu icon-move-3d"
     },
     {
     "name": "move-diagonal-2",
-    "class": "icon-move-diagonal-2"
+    "class": "lu icon-move-diagonal-2"
     },
     {
     "name": "move-diagonal",
-    "class": "icon-move-diagonal"
+    "class": "lu icon-move-diagonal"
     },
     {
     "name": "move-down-left",
-    "class": "icon-move-down-left"
+    "class": "lu icon-move-down-left"
     },
     {
     "name": "move-down-right",
-    "class": "icon-move-down-right"
+    "class": "lu icon-move-down-right"
     },
     {
     "name": "move-down",
-    "class": "icon-move-down"
+    "class": "lu icon-move-down"
     },
     {
     "name": "move-horizontal",
-    "class": "icon-move-horizontal"
+    "class": "lu icon-move-horizontal"
     },
     {
     "name": "move-left",
-    "class": "icon-move-left"
+    "class": "lu icon-move-left"
     },
     {
     "name": "move-right",
-    "class": "icon-move-right"
+    "class": "lu icon-move-right"
     },
     {
     "name": "move-up-left",
-    "class": "icon-move-up-left"
+    "class": "lu icon-move-up-left"
     },
     {
     "name": "move-up-right",
-    "class": "icon-move-up-right"
+    "class": "lu icon-move-up-right"
     },
     {
     "name": "move-up",
-    "class": "icon-move-up"
+    "class": "lu icon-move-up"
     },
     {
     "name": "move-vertical",
-    "class": "icon-move-vertical"
+    "class": "lu icon-move-vertical"
     },
     {
     "name": "move",
-    "class": "icon-move"
+    "class": "lu icon-move"
     },
     {
     "name": "music-2",
-    "class": "icon-music-2"
+    "class": "lu icon-music-2"
     },
     {
     "name": "music-3",
-    "class": "icon-music-3"
+    "class": "lu icon-music-3"
     },
     {
     "name": "music-4",
-    "class": "icon-music-4"
+    "class": "lu icon-music-4"
     },
     {
     "name": "music",
-    "class": "icon-music"
+    "class": "lu icon-music"
     },
     {
     "name": "navigation-2-off",
-    "class": "icon-navigation-2-off"
+    "class": "lu icon-navigation-2-off"
     },
     {
     "name": "navigation-2",
-    "class": "icon-navigation-2"
+    "class": "lu icon-navigation-2"
     },
     {
     "name": "navigation-off",
-    "class": "icon-navigation-off"
+    "class": "lu icon-navigation-off"
     },
     {
     "name": "navigation",
-    "class": "icon-navigation"
+    "class": "lu icon-navigation"
     },
     {
     "name": "network",
-    "class": "icon-network"
+    "class": "lu icon-network"
     },
     {
     "name": "newspaper",
-    "class": "icon-newspaper"
+    "class": "lu icon-newspaper"
     },
     {
     "name": "nfc",
-    "class": "icon-nfc"
+    "class": "lu icon-nfc"
     },
     {
     "name": "notebook-pen",
-    "class": "icon-notebook-pen"
+    "class": "lu icon-notebook-pen"
     },
     {
     "name": "notebook-tabs",
-    "class": "icon-notebook-tabs"
+    "class": "lu icon-notebook-tabs"
     },
     {
     "name": "notebook-text",
-    "class": "icon-notebook-text"
+    "class": "lu icon-notebook-text"
     },
     {
     "name": "notebook",
-    "class": "icon-notebook"
+    "class": "lu icon-notebook"
     },
     {
     "name": "notepad-text-dashed",
-    "class": "icon-notepad-text-dashed"
+    "class": "lu icon-notepad-text-dashed"
     },
     {
     "name": "notepad-text",
-    "class": "icon-notepad-text"
+    "class": "lu icon-notepad-text"
     },
     {
     "name": "nut-off",
-    "class": "icon-nut-off"
+    "class": "lu icon-nut-off"
     },
     {
     "name": "nut",
-    "class": "icon-nut"
+    "class": "lu icon-nut"
     },
     {
     "name": "octagon-alert",
-    "class": "icon-octagon-alert"
+    "class": "lu icon-octagon-alert"
     },
     {
     "name": "octagon-pause",
-    "class": "icon-octagon-pause"
+    "class": "lu icon-octagon-pause"
     },
     {
     "name": "octagon-x",
-    "class": "icon-octagon-x"
+    "class": "lu icon-octagon-x"
     },
     {
     "name": "octagon",
-    "class": "icon-octagon"
+    "class": "lu icon-octagon"
     },
     {
     "name": "omega",
-    "class": "icon-omega"
+    "class": "lu icon-omega"
     },
     {
     "name": "option",
-    "class": "icon-option"
+    "class": "lu icon-option"
     },
     {
     "name": "orbit",
-    "class": "icon-orbit"
+    "class": "lu icon-orbit"
     },
     {
     "name": "origami",
-    "class": "icon-origami"
+    "class": "lu icon-origami"
     },
     {
     "name": "package-2",
-    "class": "icon-package-2"
+    "class": "lu icon-package-2"
     },
     {
     "name": "package-check",
-    "class": "icon-package-check"
+    "class": "lu icon-package-check"
     },
     {
     "name": "package-minus",
-    "class": "icon-package-minus"
+    "class": "lu icon-package-minus"
     },
     {
     "name": "package-open",
-    "class": "icon-package-open"
+    "class": "lu icon-package-open"
     },
     {
     "name": "package-plus",
-    "class": "icon-package-plus"
+    "class": "lu icon-package-plus"
     },
     {
     "name": "package-search",
-    "class": "icon-package-search"
+    "class": "lu icon-package-search"
     },
     {
     "name": "package-x",
-    "class": "icon-package-x"
+    "class": "lu icon-package-x"
     },
     {
     "name": "package",
-    "class": "icon-package"
+    "class": "lu icon-package"
     },
     {
     "name": "paint-bucket",
-    "class": "icon-paint-bucket"
+    "class": "lu icon-paint-bucket"
     },
     {
     "name": "paint-roller",
-    "class": "icon-paint-roller"
+    "class": "lu icon-paint-roller"
     },
     {
     "name": "paintbrush-vertical",
-    "class": "icon-paintbrush-vertical"
+    "class": "lu icon-paintbrush-vertical"
     },
     {
     "name": "paintbrush",
-    "class": "icon-paintbrush"
+    "class": "lu icon-paintbrush"
     },
     {
     "name": "palette",
-    "class": "icon-palette"
+    "class": "lu icon-palette"
     },
     {
     "name": "panel-bottom-close",
-    "class": "icon-panel-bottom-close"
+    "class": "lu icon-panel-bottom-close"
     },
     {
     "name": "panel-bottom-dashed",
-    "class": "icon-panel-bottom-dashed"
+    "class": "lu icon-panel-bottom-dashed"
     },
     {
     "name": "panel-bottom-open",
-    "class": "icon-panel-bottom-open"
+    "class": "lu icon-panel-bottom-open"
     },
     {
     "name": "panel-bottom",
-    "class": "icon-panel-bottom"
+    "class": "lu icon-panel-bottom"
     },
     {
     "name": "panel-left-close",
-    "class": "icon-panel-left-close"
+    "class": "lu icon-panel-left-close"
     },
     {
     "name": "panel-left-dashed",
-    "class": "icon-panel-left-dashed"
+    "class": "lu icon-panel-left-dashed"
     },
     {
     "name": "panel-left-open",
-    "class": "icon-panel-left-open"
+    "class": "lu icon-panel-left-open"
     },
     {
     "name": "panel-left",
-    "class": "icon-panel-left"
+    "class": "lu icon-panel-left"
     },
     {
     "name": "panel-right-close",
-    "class": "icon-panel-right-close"
+    "class": "lu icon-panel-right-close"
     },
     {
     "name": "panel-right-dashed",
-    "class": "icon-panel-right-dashed"
+    "class": "lu icon-panel-right-dashed"
     },
     {
     "name": "panel-right-open",
-    "class": "icon-panel-right-open"
+    "class": "lu icon-panel-right-open"
     },
     {
     "name": "panel-right",
-    "class": "icon-panel-right"
+    "class": "lu icon-panel-right"
     },
     {
     "name": "panel-top-close",
-    "class": "icon-panel-top-close"
+    "class": "lu icon-panel-top-close"
     },
     {
     "name": "panel-top-dashed",
-    "class": "icon-panel-top-dashed"
+    "class": "lu icon-panel-top-dashed"
     },
     {
     "name": "panel-top-open",
-    "class": "icon-panel-top-open"
+    "class": "lu icon-panel-top-open"
     },
     {
     "name": "panel-top",
-    "class": "icon-panel-top"
+    "class": "lu icon-panel-top"
     },
     {
     "name": "panels-left-bottom",
-    "class": "icon-panels-left-bottom"
+    "class": "lu icon-panels-left-bottom"
     },
     {
     "name": "panels-right-bottom",
-    "class": "icon-panels-right-bottom"
+    "class": "lu icon-panels-right-bottom"
     },
     {
     "name": "panels-top-left",
-    "class": "icon-panels-top-left"
+    "class": "lu icon-panels-top-left"
     },
     {
     "name": "paperclip",
-    "class": "icon-paperclip"
+    "class": "lu icon-paperclip"
     },
     {
     "name": "parentheses",
-    "class": "icon-parentheses"
+    "class": "lu icon-parentheses"
     },
     {
     "name": "parking-meter",
-    "class": "icon-parking-meter"
+    "class": "lu icon-parking-meter"
     },
     {
     "name": "party-popper",
-    "class": "icon-party-popper"
+    "class": "lu icon-party-popper"
     },
     {
     "name": "pause",
-    "class": "icon-pause"
+    "class": "lu icon-pause"
     },
     {
     "name": "paw-print",
-    "class": "icon-paw-print"
+    "class": "lu icon-paw-print"
     },
     {
     "name": "pc-case",
-    "class": "icon-pc-case"
+    "class": "lu icon-pc-case"
     },
     {
     "name": "pen-line",
-    "class": "icon-pen-line"
+    "class": "lu icon-pen-line"
     },
     {
     "name": "pen-off",
-    "class": "icon-pen-off"
+    "class": "lu icon-pen-off"
     },
     {
     "name": "pen-tool",
-    "class": "icon-pen-tool"
+    "class": "lu icon-pen-tool"
     },
     {
     "name": "pen",
-    "class": "icon-pen"
+    "class": "lu icon-pen"
     },
     {
     "name": "pencil-line",
-    "class": "icon-pencil-line"
+    "class": "lu icon-pencil-line"
     },
     {
     "name": "pencil-off",
-    "class": "icon-pencil-off"
+    "class": "lu icon-pencil-off"
     },
     {
     "name": "pencil-ruler",
-    "class": "icon-pencil-ruler"
+    "class": "lu icon-pencil-ruler"
     },
     {
     "name": "pencil",
-    "class": "icon-pencil"
+    "class": "lu icon-pencil"
     },
     {
     "name": "pentagon",
-    "class": "icon-pentagon"
+    "class": "lu icon-pentagon"
     },
     {
     "name": "percent",
-    "class": "icon-percent"
+    "class": "lu icon-percent"
     },
     {
     "name": "person-standing",
-    "class": "icon-person-standing"
+    "class": "lu icon-person-standing"
     },
     {
     "name": "philippine-peso",
-    "class": "icon-philippine-peso"
+    "class": "lu icon-philippine-peso"
     },
     {
     "name": "phone-call",
-    "class": "icon-phone-call"
+    "class": "lu icon-phone-call"
     },
     {
     "name": "phone-forwarded",
-    "class": "icon-phone-forwarded"
+    "class": "lu icon-phone-forwarded"
     },
     {
     "name": "phone-incoming",
-    "class": "icon-phone-incoming"
+    "class": "lu icon-phone-incoming"
     },
     {
     "name": "phone-missed",
-    "class": "icon-phone-missed"
+    "class": "lu icon-phone-missed"
     },
     {
     "name": "phone-off",
-    "class": "icon-phone-off"
+    "class": "lu icon-phone-off"
     },
     {
     "name": "phone-outgoing",
-    "class": "icon-phone-outgoing"
+    "class": "lu icon-phone-outgoing"
     },
     {
     "name": "phone",
-    "class": "icon-phone"
+    "class": "lu icon-phone"
     },
     {
     "name": "pi",
-    "class": "icon-pi"
+    "class": "lu icon-pi"
     },
     {
     "name": "piano",
-    "class": "icon-piano"
+    "class": "lu icon-piano"
     },
     {
     "name": "pickaxe",
-    "class": "icon-pickaxe"
+    "class": "lu icon-pickaxe"
     },
     {
     "name": "picture-in-picture-2",
-    "class": "icon-picture-in-picture-2"
+    "class": "lu icon-picture-in-picture-2"
     },
     {
     "name": "picture-in-picture",
-    "class": "icon-picture-in-picture"
+    "class": "lu icon-picture-in-picture"
     },
     {
     "name": "piggy-bank",
-    "class": "icon-piggy-bank"
+    "class": "lu icon-piggy-bank"
     },
     {
     "name": "pilcrow-left",
-    "class": "icon-pilcrow-left"
+    "class": "lu icon-pilcrow-left"
     },
     {
     "name": "pilcrow-right",
-    "class": "icon-pilcrow-right"
+    "class": "lu icon-pilcrow-right"
     },
     {
     "name": "pilcrow",
-    "class": "icon-pilcrow"
+    "class": "lu icon-pilcrow"
     },
     {
     "name": "pill-bottle",
-    "class": "icon-pill-bottle"
+    "class": "lu icon-pill-bottle"
     },
     {
     "name": "pill",
-    "class": "icon-pill"
+    "class": "lu icon-pill"
     },
     {
     "name": "pin-off",
-    "class": "icon-pin-off"
+    "class": "lu icon-pin-off"
     },
     {
     "name": "pin",
-    "class": "icon-pin"
+    "class": "lu icon-pin"
     },
     {
     "name": "pipette",
-    "class": "icon-pipette"
+    "class": "lu icon-pipette"
     },
     {
     "name": "pizza",
-    "class": "icon-pizza"
+    "class": "lu icon-pizza"
     },
     {
     "name": "plane-landing",
-    "class": "icon-plane-landing"
+    "class": "lu icon-plane-landing"
     },
     {
     "name": "plane-takeoff",
-    "class": "icon-plane-takeoff"
+    "class": "lu icon-plane-takeoff"
     },
     {
     "name": "plane",
-    "class": "icon-plane"
+    "class": "lu icon-plane"
     },
     {
     "name": "play",
-    "class": "icon-play"
+    "class": "lu icon-play"
     },
     {
     "name": "plug-2",
-    "class": "icon-plug-2"
+    "class": "lu icon-plug-2"
     },
     {
     "name": "plug-zap",
-    "class": "icon-plug-zap"
+    "class": "lu icon-plug-zap"
     },
     {
     "name": "plug",
-    "class": "icon-plug"
+    "class": "lu icon-plug"
     },
     {
     "name": "plus",
-    "class": "icon-plus"
+    "class": "lu icon-plus"
     },
     {
     "name": "pocket-knife",
-    "class": "icon-pocket-knife"
+    "class": "lu icon-pocket-knife"
     },
     {
     "name": "pocket",
-    "class": "icon-pocket"
+    "class": "lu icon-pocket"
     },
     {
     "name": "podcast",
-    "class": "icon-podcast"
+    "class": "lu icon-podcast"
     },
     {
     "name": "pointer-off",
-    "class": "icon-pointer-off"
+    "class": "lu icon-pointer-off"
     },
     {
     "name": "pointer",
-    "class": "icon-pointer"
+    "class": "lu icon-pointer"
     },
     {
     "name": "popcorn",
-    "class": "icon-popcorn"
+    "class": "lu icon-popcorn"
     },
     {
     "name": "popsicle",
-    "class": "icon-popsicle"
+    "class": "lu icon-popsicle"
     },
     {
     "name": "pound-sterling",
-    "class": "icon-pound-sterling"
+    "class": "lu icon-pound-sterling"
     },
     {
     "name": "power-off",
-    "class": "icon-power-off"
+    "class": "lu icon-power-off"
     },
     {
     "name": "power",
-    "class": "icon-power"
+    "class": "lu icon-power"
     },
     {
     "name": "presentation",
-    "class": "icon-presentation"
+    "class": "lu icon-presentation"
     },
     {
     "name": "printer-check",
-    "class": "icon-printer-check"
+    "class": "lu icon-printer-check"
     },
     {
     "name": "printer",
-    "class": "icon-printer"
+    "class": "lu icon-printer"
     },
     {
     "name": "projector",
-    "class": "icon-projector"
+    "class": "lu icon-projector"
     },
     {
     "name": "proportions",
-    "class": "icon-proportions"
+    "class": "lu icon-proportions"
     },
     {
     "name": "puzzle",
-    "class": "icon-puzzle"
+    "class": "lu icon-puzzle"
     },
     {
     "name": "pyramid",
-    "class": "icon-pyramid"
+    "class": "lu icon-pyramid"
     },
     {
     "name": "qr-code",
-    "class": "icon-qr-code"
+    "class": "lu icon-qr-code"
     },
     {
     "name": "quote",
-    "class": "icon-quote"
+    "class": "lu icon-quote"
     },
     {
     "name": "rabbit",
-    "class": "icon-rabbit"
+    "class": "lu icon-rabbit"
     },
     {
     "name": "radar",
-    "class": "icon-radar"
+    "class": "lu icon-radar"
     },
     {
     "name": "radiation",
-    "class": "icon-radiation"
+    "class": "lu icon-radiation"
     },
     {
     "name": "radical",
-    "class": "icon-radical"
+    "class": "lu icon-radical"
     },
     {
     "name": "radio-receiver",
-    "class": "icon-radio-receiver"
+    "class": "lu icon-radio-receiver"
     },
     {
     "name": "radio-tower",
-    "class": "icon-radio-tower"
+    "class": "lu icon-radio-tower"
     },
     {
     "name": "radio",
-    "class": "icon-radio"
+    "class": "lu icon-radio"
     },
     {
     "name": "radius",
-    "class": "icon-radius"
+    "class": "lu icon-radius"
     },
     {
     "name": "rail-symbol",
-    "class": "icon-rail-symbol"
+    "class": "lu icon-rail-symbol"
     },
     {
     "name": "rainbow",
-    "class": "icon-rainbow"
+    "class": "lu icon-rainbow"
     },
     {
     "name": "rat",
-    "class": "icon-rat"
+    "class": "lu icon-rat"
     },
     {
     "name": "ratio",
-    "class": "icon-ratio"
+    "class": "lu icon-ratio"
     },
     {
     "name": "receipt-cent",
-    "class": "icon-receipt-cent"
+    "class": "lu icon-receipt-cent"
     },
     {
     "name": "receipt-euro",
-    "class": "icon-receipt-euro"
+    "class": "lu icon-receipt-euro"
     },
     {
     "name": "receipt-indian-rupee",
-    "class": "icon-receipt-indian-rupee"
+    "class": "lu icon-receipt-indian-rupee"
     },
     {
     "name": "receipt-japanese-yen",
-    "class": "icon-receipt-japanese-yen"
+    "class": "lu icon-receipt-japanese-yen"
     },
     {
     "name": "receipt-pound-sterling",
-    "class": "icon-receipt-pound-sterling"
+    "class": "lu icon-receipt-pound-sterling"
     },
     {
     "name": "receipt-russian-ruble",
-    "class": "icon-receipt-russian-ruble"
+    "class": "lu icon-receipt-russian-ruble"
     },
     {
     "name": "receipt-swiss-franc",
-    "class": "icon-receipt-swiss-franc"
+    "class": "lu icon-receipt-swiss-franc"
     },
     {
     "name": "receipt-text",
-    "class": "icon-receipt-text"
+    "class": "lu icon-receipt-text"
     },
     {
     "name": "receipt",
-    "class": "icon-receipt"
+    "class": "lu icon-receipt"
     },
     {
     "name": "rectangle-ellipsis",
-    "class": "icon-rectangle-ellipsis"
+    "class": "lu icon-rectangle-ellipsis"
     },
     {
     "name": "rectangle-horizontal",
-    "class": "icon-rectangle-horizontal"
+    "class": "lu icon-rectangle-horizontal"
     },
     {
     "name": "rectangle-vertical",
-    "class": "icon-rectangle-vertical"
+    "class": "lu icon-rectangle-vertical"
     },
     {
     "name": "recycle",
-    "class": "icon-recycle"
+    "class": "lu icon-recycle"
     },
     {
     "name": "redo-2",
-    "class": "icon-redo-2"
+    "class": "lu icon-redo-2"
     },
     {
     "name": "redo-dot",
-    "class": "icon-redo-dot"
+    "class": "lu icon-redo-dot"
     },
     {
     "name": "redo",
-    "class": "icon-redo"
+    "class": "lu icon-redo"
     },
     {
     "name": "refresh-ccw-dot",
-    "class": "icon-refresh-ccw-dot"
+    "class": "lu icon-refresh-ccw-dot"
     },
     {
     "name": "refresh-ccw",
-    "class": "icon-refresh-ccw"
+    "class": "lu icon-refresh-ccw"
     },
     {
     "name": "refresh-cw-off",
-    "class": "icon-refresh-cw-off"
+    "class": "lu icon-refresh-cw-off"
     },
     {
     "name": "refresh-cw",
-    "class": "icon-refresh-cw"
+    "class": "lu icon-refresh-cw"
     },
     {
     "name": "refrigerator",
-    "class": "icon-refrigerator"
+    "class": "lu icon-refrigerator"
     },
     {
     "name": "regex",
-    "class": "icon-regex"
+    "class": "lu icon-regex"
     },
     {
     "name": "remove-formatting",
-    "class": "icon-remove-formatting"
+    "class": "lu icon-remove-formatting"
     },
     {
     "name": "repeat-1",
-    "class": "icon-repeat-1"
+    "class": "lu icon-repeat-1"
     },
     {
     "name": "repeat-2",
-    "class": "icon-repeat-2"
+    "class": "lu icon-repeat-2"
     },
     {
     "name": "repeat",
-    "class": "icon-repeat"
+    "class": "lu icon-repeat"
     },
     {
     "name": "replace-all",
-    "class": "icon-replace-all"
+    "class": "lu icon-replace-all"
     },
     {
     "name": "replace",
-    "class": "icon-replace"
+    "class": "lu icon-replace"
     },
     {
     "name": "reply-all",
-    "class": "icon-reply-all"
+    "class": "lu icon-reply-all"
     },
     {
     "name": "reply",
-    "class": "icon-reply"
+    "class": "lu icon-reply"
     },
     {
     "name": "rewind",
-    "class": "icon-rewind"
+    "class": "lu icon-rewind"
     },
     {
     "name": "ribbon",
-    "class": "icon-ribbon"
+    "class": "lu icon-ribbon"
     },
     {
     "name": "rocket",
-    "class": "icon-rocket"
+    "class": "lu icon-rocket"
     },
     {
     "name": "rocking-chair",
-    "class": "icon-rocking-chair"
+    "class": "lu icon-rocking-chair"
     },
     {
     "name": "roller-coaster",
-    "class": "icon-roller-coaster"
+    "class": "lu icon-roller-coaster"
     },
     {
     "name": "rotate-3d",
-    "class": "icon-rotate-3d"
+    "class": "lu icon-rotate-3d"
     },
     {
     "name": "rotate-ccw-square",
-    "class": "icon-rotate-ccw-square"
+    "class": "lu icon-rotate-ccw-square"
     },
     {
     "name": "rotate-ccw",
-    "class": "icon-rotate-ccw"
+    "class": "lu icon-rotate-ccw"
     },
     {
     "name": "rotate-cw-square",
-    "class": "icon-rotate-cw-square"
+    "class": "lu icon-rotate-cw-square"
     },
     {
     "name": "rotate-cw",
-    "class": "icon-rotate-cw"
+    "class": "lu icon-rotate-cw"
     },
     {
     "name": "route-off",
-    "class": "icon-route-off"
+    "class": "lu icon-route-off"
     },
     {
     "name": "route",
-    "class": "icon-route"
+    "class": "lu icon-route"
     },
     {
     "name": "router",
-    "class": "icon-router"
+    "class": "lu icon-router"
     },
     {
     "name": "rows-2",
-    "class": "icon-rows-2"
+    "class": "lu icon-rows-2"
     },
     {
     "name": "rows-3",
-    "class": "icon-rows-3"
+    "class": "lu icon-rows-3"
     },
     {
     "name": "rows-4",
-    "class": "icon-rows-4"
+    "class": "lu icon-rows-4"
     },
     {
     "name": "rss",
-    "class": "icon-rss"
+    "class": "lu icon-rss"
     },
     {
     "name": "ruler",
-    "class": "icon-ruler"
+    "class": "lu icon-ruler"
     },
     {
     "name": "russian-ruble",
-    "class": "icon-russian-ruble"
+    "class": "lu icon-russian-ruble"
     },
     {
     "name": "sailboat",
-    "class": "icon-sailboat"
+    "class": "lu icon-sailboat"
     },
     {
     "name": "salad",
-    "class": "icon-salad"
+    "class": "lu icon-salad"
     },
     {
     "name": "sandwich",
-    "class": "icon-sandwich"
+    "class": "lu icon-sandwich"
     },
     {
     "name": "satellite-dish",
-    "class": "icon-satellite-dish"
+    "class": "lu icon-satellite-dish"
     },
     {
     "name": "satellite",
-    "class": "icon-satellite"
+    "class": "lu icon-satellite"
     },
     {
     "name": "save-all",
-    "class": "icon-save-all"
+    "class": "lu icon-save-all"
     },
     {
     "name": "save-off",
-    "class": "icon-save-off"
+    "class": "lu icon-save-off"
     },
     {
     "name": "save",
-    "class": "icon-save"
+    "class": "lu icon-save"
     },
     {
     "name": "scale-3d",
-    "class": "icon-scale-3d"
+    "class": "lu icon-scale-3d"
     },
     {
     "name": "scale",
-    "class": "icon-scale"
+    "class": "lu icon-scale"
     },
     {
     "name": "scaling",
-    "class": "icon-scaling"
+    "class": "lu icon-scaling"
     },
     {
     "name": "scan-barcode",
-    "class": "icon-scan-barcode"
+    "class": "lu icon-scan-barcode"
     },
     {
     "name": "scan-eye",
-    "class": "icon-scan-eye"
+    "class": "lu icon-scan-eye"
     },
     {
     "name": "scan-face",
-    "class": "icon-scan-face"
+    "class": "lu icon-scan-face"
     },
     {
     "name": "scan-line",
-    "class": "icon-scan-line"
+    "class": "lu icon-scan-line"
     },
     {
     "name": "scan-qr-code",
-    "class": "icon-scan-qr-code"
+    "class": "lu icon-scan-qr-code"
     },
     {
     "name": "scan-search",
-    "class": "icon-scan-search"
+    "class": "lu icon-scan-search"
     },
     {
     "name": "scan-text",
-    "class": "icon-scan-text"
+    "class": "lu icon-scan-text"
     },
     {
     "name": "scan",
-    "class": "icon-scan"
+    "class": "lu icon-scan"
     },
     {
     "name": "school",
-    "class": "icon-school"
+    "class": "lu icon-school"
     },
     {
     "name": "scissors-line-dashed",
-    "class": "icon-scissors-line-dashed"
+    "class": "lu icon-scissors-line-dashed"
     },
     {
     "name": "scissors",
-    "class": "icon-scissors"
+    "class": "lu icon-scissors"
     },
     {
     "name": "screen-share-off",
-    "class": "icon-screen-share-off"
+    "class": "lu icon-screen-share-off"
     },
     {
     "name": "screen-share",
-    "class": "icon-screen-share"
+    "class": "lu icon-screen-share"
     },
     {
     "name": "scroll-text",
-    "class": "icon-scroll-text"
+    "class": "lu icon-scroll-text"
     },
     {
     "name": "scroll",
-    "class": "icon-scroll"
+    "class": "lu icon-scroll"
     },
     {
     "name": "search-check",
-    "class": "icon-search-check"
+    "class": "lu icon-search-check"
     },
     {
     "name": "search-code",
-    "class": "icon-search-code"
+    "class": "lu icon-search-code"
     },
     {
     "name": "search-slash",
-    "class": "icon-search-slash"
+    "class": "lu icon-search-slash"
     },
     {
     "name": "search-x",
-    "class": "icon-search-x"
+    "class": "lu icon-search-x"
     },
     {
     "name": "search",
-    "class": "icon-search"
+    "class": "lu icon-search"
     },
     {
     "name": "section",
-    "class": "icon-section"
+    "class": "lu icon-section"
     },
     {
     "name": "send-horizontal",
-    "class": "icon-send-horizontal"
+    "class": "lu icon-send-horizontal"
     },
     {
     "name": "send-to-back",
-    "class": "icon-send-to-back"
+    "class": "lu icon-send-to-back"
     },
     {
     "name": "send",
-    "class": "icon-send"
+    "class": "lu icon-send"
     },
     {
     "name": "separator-horizontal",
-    "class": "icon-separator-horizontal"
+    "class": "lu icon-separator-horizontal"
     },
     {
     "name": "separator-vertical",
-    "class": "icon-separator-vertical"
+    "class": "lu icon-separator-vertical"
     },
     {
     "name": "server-cog",
-    "class": "icon-server-cog"
+    "class": "lu icon-server-cog"
     },
     {
     "name": "server-crash",
-    "class": "icon-server-crash"
+    "class": "lu icon-server-crash"
     },
     {
     "name": "server-off",
-    "class": "icon-server-off"
+    "class": "lu icon-server-off"
     },
     {
     "name": "server",
-    "class": "icon-server"
+    "class": "lu icon-server"
     },
     {
     "name": "settings-2",
-    "class": "icon-settings-2"
+    "class": "lu icon-settings-2"
     },
     {
     "name": "settings",
-    "class": "icon-settings"
+    "class": "lu icon-settings"
     },
     {
     "name": "shapes",
-    "class": "icon-shapes"
+    "class": "lu icon-shapes"
     },
     {
     "name": "share-2",
-    "class": "icon-share-2"
+    "class": "lu icon-share-2"
     },
     {
     "name": "share",
-    "class": "icon-share"
+    "class": "lu icon-share"
     },
     {
     "name": "sheet",
-    "class": "icon-sheet"
+    "class": "lu icon-sheet"
     },
     {
     "name": "shell",
-    "class": "icon-shell"
+    "class": "lu icon-shell"
     },
     {
     "name": "shield-alert",
-    "class": "icon-shield-alert"
+    "class": "lu icon-shield-alert"
     },
     {
     "name": "shield-ban",
-    "class": "icon-shield-ban"
+    "class": "lu icon-shield-ban"
     },
     {
     "name": "shield-check",
-    "class": "icon-shield-check"
+    "class": "lu icon-shield-check"
     },
     {
     "name": "shield-ellipsis",
-    "class": "icon-shield-ellipsis"
+    "class": "lu icon-shield-ellipsis"
     },
     {
     "name": "shield-half",
-    "class": "icon-shield-half"
+    "class": "lu icon-shield-half"
     },
     {
     "name": "shield-minus",
-    "class": "icon-shield-minus"
+    "class": "lu icon-shield-minus"
     },
     {
     "name": "shield-off",
-    "class": "icon-shield-off"
+    "class": "lu icon-shield-off"
     },
     {
     "name": "shield-plus",
-    "class": "icon-shield-plus"
+    "class": "lu icon-shield-plus"
     },
     {
     "name": "shield-question",
-    "class": "icon-shield-question"
+    "class": "lu icon-shield-question"
     },
     {
     "name": "shield-x",
-    "class": "icon-shield-x"
+    "class": "lu icon-shield-x"
     },
     {
     "name": "shield",
-    "class": "icon-shield"
+    "class": "lu icon-shield"
     },
     {
     "name": "ship-wheel",
-    "class": "icon-ship-wheel"
+    "class": "lu icon-ship-wheel"
     },
     {
     "name": "ship",
-    "class": "icon-ship"
+    "class": "lu icon-ship"
     },
     {
     "name": "shirt",
-    "class": "icon-shirt"
+    "class": "lu icon-shirt"
     },
     {
     "name": "shopping-bag",
-    "class": "icon-shopping-bag"
+    "class": "lu icon-shopping-bag"
     },
     {
     "name": "shopping-basket",
-    "class": "icon-shopping-basket"
+    "class": "lu icon-shopping-basket"
     },
     {
     "name": "shopping-cart",
-    "class": "icon-shopping-cart"
+    "class": "lu icon-shopping-cart"
     },
     {
     "name": "shovel",
-    "class": "icon-shovel"
+    "class": "lu icon-shovel"
     },
     {
     "name": "shower-head",
-    "class": "icon-shower-head"
+    "class": "lu icon-shower-head"
     },
     {
     "name": "shrink",
-    "class": "icon-shrink"
+    "class": "lu icon-shrink"
     },
     {
     "name": "shrub",
-    "class": "icon-shrub"
+    "class": "lu icon-shrub"
     },
     {
     "name": "shuffle",
-    "class": "icon-shuffle"
+    "class": "lu icon-shuffle"
     },
     {
     "name": "sigma",
-    "class": "icon-sigma"
+    "class": "lu icon-sigma"
     },
     {
     "name": "signal-high",
-    "class": "icon-signal-high"
+    "class": "lu icon-signal-high"
     },
     {
     "name": "signal-low",
-    "class": "icon-signal-low"
+    "class": "lu icon-signal-low"
     },
     {
     "name": "signal-medium",
-    "class": "icon-signal-medium"
+    "class": "lu icon-signal-medium"
     },
     {
     "name": "signal-zero",
-    "class": "icon-signal-zero"
+    "class": "lu icon-signal-zero"
     },
     {
     "name": "signal",
-    "class": "icon-signal"
+    "class": "lu icon-signal"
     },
     {
     "name": "signature",
-    "class": "icon-signature"
+    "class": "lu icon-signature"
     },
     {
     "name": "signpost-big",
-    "class": "icon-signpost-big"
+    "class": "lu icon-signpost-big"
     },
     {
     "name": "signpost",
-    "class": "icon-signpost"
+    "class": "lu icon-signpost"
     },
     {
     "name": "siren",
-    "class": "icon-siren"
+    "class": "lu icon-siren"
     },
     {
     "name": "skip-back",
-    "class": "icon-skip-back"
+    "class": "lu icon-skip-back"
     },
     {
     "name": "skip-forward",
-    "class": "icon-skip-forward"
+    "class": "lu icon-skip-forward"
     },
     {
     "name": "skull",
-    "class": "icon-skull"
+    "class": "lu icon-skull"
     },
     {
     "name": "slack",
-    "class": "icon-slack"
+    "class": "lu icon-slack"
     },
     {
     "name": "slash",
-    "class": "icon-slash"
+    "class": "lu icon-slash"
     },
     {
     "name": "slice",
-    "class": "icon-slice"
+    "class": "lu icon-slice"
     },
     {
     "name": "sliders-horizontal",
-    "class": "icon-sliders-horizontal"
+    "class": "lu icon-sliders-horizontal"
     },
     {
     "name": "sliders-vertical",
-    "class": "icon-sliders-vertical"
+    "class": "lu icon-sliders-vertical"
     },
     {
     "name": "smartphone-charging",
-    "class": "icon-smartphone-charging"
+    "class": "lu icon-smartphone-charging"
     },
     {
     "name": "smartphone-nfc",
-    "class": "icon-smartphone-nfc"
+    "class": "lu icon-smartphone-nfc"
     },
     {
     "name": "smartphone",
-    "class": "icon-smartphone"
+    "class": "lu icon-smartphone"
     },
     {
     "name": "smile-plus",
-    "class": "icon-smile-plus"
+    "class": "lu icon-smile-plus"
     },
     {
     "name": "smile",
-    "class": "icon-smile"
+    "class": "lu icon-smile"
     },
     {
     "name": "snail",
-    "class": "icon-snail"
+    "class": "lu icon-snail"
     },
     {
     "name": "snowflake",
-    "class": "icon-snowflake"
+    "class": "lu icon-snowflake"
     },
     {
     "name": "sofa",
-    "class": "icon-sofa"
+    "class": "lu icon-sofa"
     },
     {
     "name": "soup",
-    "class": "icon-soup"
+    "class": "lu icon-soup"
     },
     {
     "name": "space",
-    "class": "icon-space"
+    "class": "lu icon-space"
     },
     {
     "name": "spade",
-    "class": "icon-spade"
+    "class": "lu icon-spade"
     },
     {
     "name": "sparkle",
-    "class": "icon-sparkle"
+    "class": "lu icon-sparkle"
     },
     {
     "name": "sparkles",
-    "class": "icon-sparkles"
+    "class": "lu icon-sparkles"
     },
     {
     "name": "speaker",
-    "class": "icon-speaker"
+    "class": "lu icon-speaker"
     },
     {
     "name": "speech",
-    "class": "icon-speech"
+    "class": "lu icon-speech"
     },
     {
     "name": "spell-check-2",
-    "class": "icon-spell-check-2"
+    "class": "lu icon-spell-check-2"
     },
     {
     "name": "spell-check",
-    "class": "icon-spell-check"
+    "class": "lu icon-spell-check"
     },
     {
     "name": "spline",
-    "class": "icon-spline"
+    "class": "lu icon-spline"
     },
     {
     "name": "split",
-    "class": "icon-split"
+    "class": "lu icon-split"
     },
     {
     "name": "spray-can",
-    "class": "icon-spray-can"
+    "class": "lu icon-spray-can"
     },
     {
     "name": "sprout",
-    "class": "icon-sprout"
+    "class": "lu icon-sprout"
     },
     {
     "name": "square-activity",
-    "class": "icon-square-activity"
+    "class": "lu icon-square-activity"
     },
     {
     "name": "square-arrow-down-left",
-    "class": "icon-square-arrow-down-left"
+    "class": "lu icon-square-arrow-down-left"
     },
     {
     "name": "square-arrow-down-right",
-    "class": "icon-square-arrow-down-right"
+    "class": "lu icon-square-arrow-down-right"
     },
     {
     "name": "square-arrow-down",
-    "class": "icon-square-arrow-down"
+    "class": "lu icon-square-arrow-down"
     },
     {
     "name": "square-arrow-left",
-    "class": "icon-square-arrow-left"
+    "class": "lu icon-square-arrow-left"
     },
     {
     "name": "square-arrow-out-down-left",
-    "class": "icon-square-arrow-out-down-left"
+    "class": "lu icon-square-arrow-out-down-left"
     },
     {
     "name": "square-arrow-out-down-right",
-    "class": "icon-square-arrow-out-down-right"
+    "class": "lu icon-square-arrow-out-down-right"
     },
     {
     "name": "square-arrow-out-up-left",
-    "class": "icon-square-arrow-out-up-left"
+    "class": "lu icon-square-arrow-out-up-left"
     },
     {
     "name": "square-arrow-out-up-right",
-    "class": "icon-square-arrow-out-up-right"
+    "class": "lu icon-square-arrow-out-up-right"
     },
     {
     "name": "square-arrow-right",
-    "class": "icon-square-arrow-right"
+    "class": "lu icon-square-arrow-right"
     },
     {
     "name": "square-arrow-up-left",
-    "class": "icon-square-arrow-up-left"
+    "class": "lu icon-square-arrow-up-left"
     },
     {
     "name": "square-arrow-up-right",
-    "class": "icon-square-arrow-up-right"
+    "class": "lu icon-square-arrow-up-right"
     },
     {
     "name": "square-arrow-up",
-    "class": "icon-square-arrow-up"
+    "class": "lu icon-square-arrow-up"
     },
     {
     "name": "square-asterisk",
-    "class": "icon-square-asterisk"
+    "class": "lu icon-square-asterisk"
     },
     {
     "name": "square-bottom-dashed-scissors",
-    "class": "icon-square-bottom-dashed-scissors"
+    "class": "lu icon-square-bottom-dashed-scissors"
     },
     {
     "name": "square-chart-gantt",
-    "class": "icon-square-chart-gantt"
+    "class": "lu icon-square-chart-gantt"
     },
     {
     "name": "square-check-big",
-    "class": "icon-square-check-big"
+    "class": "lu icon-square-check-big"
     },
     {
     "name": "square-check",
-    "class": "icon-square-check"
+    "class": "lu icon-square-check"
     },
     {
     "name": "square-chevron-down",
-    "class": "icon-square-chevron-down"
+    "class": "lu icon-square-chevron-down"
     },
     {
     "name": "square-chevron-left",
-    "class": "icon-square-chevron-left"
+    "class": "lu icon-square-chevron-left"
     },
     {
     "name": "square-chevron-right",
-    "class": "icon-square-chevron-right"
+    "class": "lu icon-square-chevron-right"
     },
     {
     "name": "square-chevron-up",
-    "class": "icon-square-chevron-up"
+    "class": "lu icon-square-chevron-up"
     },
     {
     "name": "square-code",
-    "class": "icon-square-code"
+    "class": "lu icon-square-code"
     },
     {
     "name": "square-dashed-bottom-code",
-    "class": "icon-square-dashed-bottom-code"
+    "class": "lu icon-square-dashed-bottom-code"
     },
     {
     "name": "square-dashed-bottom",
-    "class": "icon-square-dashed-bottom"
+    "class": "lu icon-square-dashed-bottom"
     },
     {
     "name": "square-dashed-kanban",
-    "class": "icon-square-dashed-kanban"
+    "class": "lu icon-square-dashed-kanban"
     },
     {
     "name": "square-dashed-mouse-pointer",
-    "class": "icon-square-dashed-mouse-pointer"
+    "class": "lu icon-square-dashed-mouse-pointer"
     },
     {
     "name": "square-divide",
-    "class": "icon-square-divide"
+    "class": "lu icon-square-divide"
     },
     {
     "name": "square-dot",
-    "class": "icon-square-dot"
+    "class": "lu icon-square-dot"
     },
     {
     "name": "square-equal",
-    "class": "icon-square-equal"
+    "class": "lu icon-square-equal"
     },
     {
     "name": "square-function",
-    "class": "icon-square-function"
+    "class": "lu icon-square-function"
     },
     {
     "name": "square-kanban",
-    "class": "icon-square-kanban"
+    "class": "lu icon-square-kanban"
     },
     {
     "name": "square-library",
-    "class": "icon-square-library"
+    "class": "lu icon-square-library"
     },
     {
     "name": "square-m",
-    "class": "icon-square-m"
+    "class": "lu icon-square-m"
     },
     {
     "name": "square-menu",
-    "class": "icon-square-menu"
+    "class": "lu icon-square-menu"
     },
     {
     "name": "square-minus",
-    "class": "icon-square-minus"
+    "class": "lu icon-square-minus"
     },
     {
     "name": "square-mouse-pointer",
-    "class": "icon-square-mouse-pointer"
+    "class": "lu icon-square-mouse-pointer"
     },
     {
     "name": "square-parking-off",
-    "class": "icon-square-parking-off"
+    "class": "lu icon-square-parking-off"
     },
     {
     "name": "square-parking",
-    "class": "icon-square-parking"
+    "class": "lu icon-square-parking"
     },
     {
     "name": "square-pen",
-    "class": "icon-square-pen"
+    "class": "lu icon-square-pen"
     },
     {
     "name": "square-percent",
-    "class": "icon-square-percent"
+    "class": "lu icon-square-percent"
     },
     {
     "name": "square-pi",
-    "class": "icon-square-pi"
+    "class": "lu icon-square-pi"
     },
     {
     "name": "square-pilcrow",
-    "class": "icon-square-pilcrow"
+    "class": "lu icon-square-pilcrow"
     },
     {
     "name": "square-play",
-    "class": "icon-square-play"
+    "class": "lu icon-square-play"
     },
     {
     "name": "square-plus",
-    "class": "icon-square-plus"
+    "class": "lu icon-square-plus"
     },
     {
     "name": "square-power",
-    "class": "icon-square-power"
+    "class": "lu icon-square-power"
     },
     {
     "name": "square-radical",
-    "class": "icon-square-radical"
+    "class": "lu icon-square-radical"
     },
     {
     "name": "square-scissors",
-    "class": "icon-square-scissors"
+    "class": "lu icon-square-scissors"
     },
     {
     "name": "square-sigma",
-    "class": "icon-square-sigma"
+    "class": "lu icon-square-sigma"
     },
     {
     "name": "square-slash",
-    "class": "icon-square-slash"
+    "class": "lu icon-square-slash"
     },
     {
     "name": "square-split-horizontal",
-    "class": "icon-square-split-horizontal"
+    "class": "lu icon-square-split-horizontal"
     },
     {
     "name": "square-split-vertical",
-    "class": "icon-square-split-vertical"
+    "class": "lu icon-square-split-vertical"
     },
     {
     "name": "square-square",
-    "class": "icon-square-square"
+    "class": "lu icon-square-square"
     },
     {
     "name": "square-stack",
-    "class": "icon-square-stack"
+    "class": "lu icon-square-stack"
     },
     {
     "name": "square-terminal",
-    "class": "icon-square-terminal"
+    "class": "lu icon-square-terminal"
     },
     {
     "name": "square-user-round",
-    "class": "icon-square-user-round"
+    "class": "lu icon-square-user-round"
     },
     {
     "name": "square-user",
-    "class": "icon-square-user"
+    "class": "lu icon-square-user"
     },
     {
     "name": "square-x",
-    "class": "icon-square-x"
+    "class": "lu icon-square-x"
     },
     {
     "name": "square",
-    "class": "icon-square"
+    "class": "lu icon-square"
     },
     {
     "name": "squircle",
-    "class": "icon-squircle"
+    "class": "lu icon-squircle"
     },
     {
     "name": "squirrel",
-    "class": "icon-squirrel"
+    "class": "lu icon-squirrel"
     },
     {
     "name": "stamp",
-    "class": "icon-stamp"
+    "class": "lu icon-stamp"
     },
     {
     "name": "star-half",
-    "class": "icon-star-half"
+    "class": "lu icon-star-half"
     },
     {
     "name": "star-off",
-    "class": "icon-star-off"
+    "class": "lu icon-star-off"
     },
     {
     "name": "star",
-    "class": "icon-star"
+    "class": "lu icon-star"
     },
     {
     "name": "step-back",
-    "class": "icon-step-back"
+    "class": "lu icon-step-back"
     },
     {
     "name": "step-forward",
-    "class": "icon-step-forward"
+    "class": "lu icon-step-forward"
     },
     {
     "name": "stethoscope",
-    "class": "icon-stethoscope"
+    "class": "lu icon-stethoscope"
     },
     {
     "name": "sticker",
-    "class": "icon-sticker"
+    "class": "lu icon-sticker"
     },
     {
     "name": "sticky-note",
-    "class": "icon-sticky-note"
+    "class": "lu icon-sticky-note"
     },
     {
     "name": "store",
-    "class": "icon-store"
+    "class": "lu icon-store"
     },
     {
     "name": "stretch-horizontal",
-    "class": "icon-stretch-horizontal"
+    "class": "lu icon-stretch-horizontal"
     },
     {
     "name": "stretch-vertical",
-    "class": "icon-stretch-vertical"
+    "class": "lu icon-stretch-vertical"
     },
     {
     "name": "strikethrough",
-    "class": "icon-strikethrough"
+    "class": "lu icon-strikethrough"
     },
     {
     "name": "subscript",
-    "class": "icon-subscript"
+    "class": "lu icon-subscript"
     },
     {
     "name": "sun-dim",
-    "class": "icon-sun-dim"
+    "class": "lu icon-sun-dim"
     },
     {
     "name": "sun-medium",
-    "class": "icon-sun-medium"
+    "class": "lu icon-sun-medium"
     },
     {
     "name": "sun-moon",
-    "class": "icon-sun-moon"
+    "class": "lu icon-sun-moon"
     },
     {
     "name": "sun-snow",
-    "class": "icon-sun-snow"
+    "class": "lu icon-sun-snow"
     },
     {
     "name": "sun",
-    "class": "icon-sun"
+    "class": "lu icon-sun"
     },
     {
     "name": "sunrise",
-    "class": "icon-sunrise"
+    "class": "lu icon-sunrise"
     },
     {
     "name": "sunset",
-    "class": "icon-sunset"
+    "class": "lu icon-sunset"
     },
     {
     "name": "superscript",
-    "class": "icon-superscript"
+    "class": "lu icon-superscript"
     },
     {
     "name": "swatch-book",
-    "class": "icon-swatch-book"
+    "class": "lu icon-swatch-book"
     },
     {
     "name": "swiss-franc",
-    "class": "icon-swiss-franc"
+    "class": "lu icon-swiss-franc"
     },
     {
     "name": "switch-camera",
-    "class": "icon-switch-camera"
+    "class": "lu icon-switch-camera"
     },
     {
     "name": "sword",
-    "class": "icon-sword"
+    "class": "lu icon-sword"
     },
     {
     "name": "swords",
-    "class": "icon-swords"
+    "class": "lu icon-swords"
     },
     {
     "name": "syringe",
-    "class": "icon-syringe"
+    "class": "lu icon-syringe"
     },
     {
     "name": "table-2",
-    "class": "icon-table-2"
+    "class": "lu icon-table-2"
     },
     {
     "name": "table-cells-merge",
-    "class": "icon-table-cells-merge"
+    "class": "lu icon-table-cells-merge"
     },
     {
     "name": "table-cells-split",
-    "class": "icon-table-cells-split"
+    "class": "lu icon-table-cells-split"
     },
     {
     "name": "table-columns-split",
-    "class": "icon-table-columns-split"
+    "class": "lu icon-table-columns-split"
     },
     {
     "name": "table-properties",
-    "class": "icon-table-properties"
+    "class": "lu icon-table-properties"
     },
     {
     "name": "table-rows-split",
-    "class": "icon-table-rows-split"
+    "class": "lu icon-table-rows-split"
     },
     {
     "name": "table",
-    "class": "icon-table"
+    "class": "lu icon-table"
     },
     {
     "name": "tablet-smartphone",
-    "class": "icon-tablet-smartphone"
+    "class": "lu icon-tablet-smartphone"
     },
     {
     "name": "tablet",
-    "class": "icon-tablet"
+    "class": "lu icon-tablet"
     },
     {
     "name": "tablets",
-    "class": "icon-tablets"
+    "class": "lu icon-tablets"
     },
     {
     "name": "tag",
-    "class": "icon-tag"
+    "class": "lu icon-tag"
     },
     {
     "name": "tags",
-    "class": "icon-tags"
+    "class": "lu icon-tags"
     },
     {
     "name": "tally-1",
-    "class": "icon-tally-1"
+    "class": "lu icon-tally-1"
     },
     {
     "name": "tally-2",
-    "class": "icon-tally-2"
+    "class": "lu icon-tally-2"
     },
     {
     "name": "tally-3",
-    "class": "icon-tally-3"
+    "class": "lu icon-tally-3"
     },
     {
     "name": "tally-4",
-    "class": "icon-tally-4"
+    "class": "lu icon-tally-4"
     },
     {
     "name": "tally-5",
-    "class": "icon-tally-5"
+    "class": "lu icon-tally-5"
     },
     {
     "name": "tangent",
-    "class": "icon-tangent"
+    "class": "lu icon-tangent"
     },
     {
     "name": "target",
-    "class": "icon-target"
+    "class": "lu icon-target"
     },
     {
     "name": "telescope",
-    "class": "icon-telescope"
+    "class": "lu icon-telescope"
     },
     {
     "name": "tent-tree",
-    "class": "icon-tent-tree"
+    "class": "lu icon-tent-tree"
     },
     {
     "name": "tent",
-    "class": "icon-tent"
+    "class": "lu icon-tent"
     },
     {
     "name": "terminal",
-    "class": "icon-terminal"
+    "class": "lu icon-terminal"
     },
     {
     "name": "test-tube-diagonal",
-    "class": "icon-test-tube-diagonal"
+    "class": "lu icon-test-tube-diagonal"
     },
     {
     "name": "test-tube",
-    "class": "icon-test-tube"
+    "class": "lu icon-test-tube"
     },
     {
     "name": "test-tubes",
-    "class": "icon-test-tubes"
+    "class": "lu icon-test-tubes"
     },
     {
     "name": "text-cursor-input",
-    "class": "icon-text-cursor-input"
+    "class": "lu icon-text-cursor-input"
     },
     {
     "name": "text-cursor",
-    "class": "icon-text-cursor"
+    "class": "lu icon-text-cursor"
     },
     {
     "name": "text-quote",
-    "class": "icon-text-quote"
+    "class": "lu icon-text-quote"
     },
     {
     "name": "text-search",
-    "class": "icon-text-search"
+    "class": "lu icon-text-search"
     },
     {
     "name": "text-select",
-    "class": "icon-text-select"
+    "class": "lu icon-text-select"
     },
     {
     "name": "text",
-    "class": "icon-text"
+    "class": "lu icon-text"
     },
     {
     "name": "theater",
-    "class": "icon-theater"
+    "class": "lu icon-theater"
     },
     {
     "name": "thermometer-snowflake",
-    "class": "icon-thermometer-snowflake"
+    "class": "lu icon-thermometer-snowflake"
     },
     {
     "name": "thermometer-sun",
-    "class": "icon-thermometer-sun"
+    "class": "lu icon-thermometer-sun"
     },
     {
     "name": "thermometer",
-    "class": "icon-thermometer"
+    "class": "lu icon-thermometer"
     },
     {
     "name": "thumbs-down",
-    "class": "icon-thumbs-down"
+    "class": "lu icon-thumbs-down"
     },
     {
     "name": "thumbs-up",
-    "class": "icon-thumbs-up"
+    "class": "lu icon-thumbs-up"
     },
     {
     "name": "ticket-check",
-    "class": "icon-ticket-check"
+    "class": "lu icon-ticket-check"
     },
     {
     "name": "ticket-minus",
-    "class": "icon-ticket-minus"
+    "class": "lu icon-ticket-minus"
     },
     {
     "name": "ticket-percent",
-    "class": "icon-ticket-percent"
+    "class": "lu icon-ticket-percent"
     },
     {
     "name": "ticket-plus",
-    "class": "icon-ticket-plus"
+    "class": "lu icon-ticket-plus"
     },
     {
     "name": "ticket-slash",
-    "class": "icon-ticket-slash"
+    "class": "lu icon-ticket-slash"
     },
     {
     "name": "ticket-x",
-    "class": "icon-ticket-x"
+    "class": "lu icon-ticket-x"
     },
     {
     "name": "ticket",
-    "class": "icon-ticket"
+    "class": "lu icon-ticket"
     },
     {
     "name": "timer-off",
-    "class": "icon-timer-off"
+    "class": "lu icon-timer-off"
     },
     {
     "name": "timer-reset",
-    "class": "icon-timer-reset"
+    "class": "lu icon-timer-reset"
     },
     {
     "name": "timer",
-    "class": "icon-timer"
+    "class": "lu icon-timer"
     },
     {
     "name": "toggle-left",
-    "class": "icon-toggle-left"
+    "class": "lu icon-toggle-left"
     },
     {
     "name": "toggle-right",
-    "class": "icon-toggle-right"
+    "class": "lu icon-toggle-right"
     },
     {
     "name": "tornado",
-    "class": "icon-tornado"
+    "class": "lu icon-tornado"
     },
     {
     "name": "torus",
-    "class": "icon-torus"
+    "class": "lu icon-torus"
     },
     {
     "name": "touchpad-off",
-    "class": "icon-touchpad-off"
+    "class": "lu icon-touchpad-off"
     },
     {
     "name": "touchpad",
-    "class": "icon-touchpad"
+    "class": "lu icon-touchpad"
     },
     {
     "name": "tower-control",
-    "class": "icon-tower-control"
+    "class": "lu icon-tower-control"
     },
     {
     "name": "toy-brick",
-    "class": "icon-toy-brick"
+    "class": "lu icon-toy-brick"
     },
     {
     "name": "tractor",
-    "class": "icon-tractor"
+    "class": "lu icon-tractor"
     },
     {
     "name": "traffic-cone",
-    "class": "icon-traffic-cone"
+    "class": "lu icon-traffic-cone"
     },
     {
     "name": "train-front-tunnel",
-    "class": "icon-train-front-tunnel"
+    "class": "lu icon-train-front-tunnel"
     },
     {
     "name": "train-front",
-    "class": "icon-train-front"
+    "class": "lu icon-train-front"
     },
     {
     "name": "train-track",
-    "class": "icon-train-track"
+    "class": "lu icon-train-track"
     },
     {
     "name": "tram-front",
-    "class": "icon-tram-front"
+    "class": "lu icon-tram-front"
     },
     {
     "name": "trash-2",
-    "class": "icon-trash-2"
+    "class": "lu icon-trash-2"
     },
     {
     "name": "trash",
-    "class": "icon-trash"
+    "class": "lu icon-trash"
     },
     {
     "name": "tree-deciduous",
-    "class": "icon-tree-deciduous"
+    "class": "lu icon-tree-deciduous"
     },
     {
     "name": "tree-palm",
-    "class": "icon-tree-palm"
+    "class": "lu icon-tree-palm"
     },
     {
     "name": "tree-pine",
-    "class": "icon-tree-pine"
+    "class": "lu icon-tree-pine"
     },
     {
     "name": "trees",
-    "class": "icon-trees"
+    "class": "lu icon-trees"
     },
     {
     "name": "trello",
-    "class": "icon-trello"
+    "class": "lu icon-trello"
     },
     {
     "name": "trending-down",
-    "class": "icon-trending-down"
+    "class": "lu icon-trending-down"
     },
     {
     "name": "trending-up",
-    "class": "icon-trending-up"
+    "class": "lu icon-trending-up"
     },
     {
     "name": "triangle-alert",
-    "class": "icon-triangle-alert"
+    "class": "lu icon-triangle-alert"
     },
     {
     "name": "triangle-right",
-    "class": "icon-triangle-right"
+    "class": "lu icon-triangle-right"
     },
     {
     "name": "triangle",
-    "class": "icon-triangle"
+    "class": "lu icon-triangle"
     },
     {
     "name": "trophy",
-    "class": "icon-trophy"
+    "class": "lu icon-trophy"
     },
     {
     "name": "truck",
-    "class": "icon-truck"
+    "class": "lu icon-truck"
     },
     {
     "name": "turtle",
-    "class": "icon-turtle"
+    "class": "lu icon-turtle"
     },
     {
     "name": "tv-minimal-play",
-    "class": "icon-tv-minimal-play"
+    "class": "lu icon-tv-minimal-play"
     },
     {
     "name": "tv-minimal",
-    "class": "icon-tv-minimal"
+    "class": "lu icon-tv-minimal"
     },
     {
     "name": "tv",
-    "class": "icon-tv"
+    "class": "lu icon-tv"
     },
     {
     "name": "twitch",
-    "class": "icon-twitch"
+    "class": "lu icon-twitch"
     },
     {
     "name": "twitter",
-    "class": "icon-twitter"
+    "class": "lu icon-twitter"
     },
     {
     "name": "type-outline",
-    "class": "icon-type-outline"
+    "class": "lu icon-type-outline"
     },
     {
     "name": "type",
-    "class": "icon-type"
+    "class": "lu icon-type"
     },
     {
     "name": "umbrella-off",
-    "class": "icon-umbrella-off"
+    "class": "lu icon-umbrella-off"
     },
     {
     "name": "umbrella",
-    "class": "icon-umbrella"
+    "class": "lu icon-umbrella"
     },
     {
     "name": "underline",
-    "class": "icon-underline"
+    "class": "lu icon-underline"
     },
     {
     "name": "undo-2",
-    "class": "icon-undo-2"
+    "class": "lu icon-undo-2"
     },
     {
     "name": "undo-dot",
-    "class": "icon-undo-dot"
+    "class": "lu icon-undo-dot"
     },
     {
     "name": "undo",
-    "class": "icon-undo"
+    "class": "lu icon-undo"
     },
     {
     "name": "unfold-horizontal",
-    "class": "icon-unfold-horizontal"
+    "class": "lu icon-unfold-horizontal"
     },
     {
     "name": "unfold-vertical",
-    "class": "icon-unfold-vertical"
+    "class": "lu icon-unfold-vertical"
     },
     {
     "name": "ungroup",
-    "class": "icon-ungroup"
+    "class": "lu icon-ungroup"
     },
     {
     "name": "university",
-    "class": "icon-university"
+    "class": "lu icon-university"
     },
     {
     "name": "unlink-2",
-    "class": "icon-unlink-2"
+    "class": "lu icon-unlink-2"
     },
     {
     "name": "unlink",
-    "class": "icon-unlink"
+    "class": "lu icon-unlink"
     },
     {
     "name": "unplug",
-    "class": "icon-unplug"
+    "class": "lu icon-unplug"
     },
     {
     "name": "upload",
-    "class": "icon-upload"
+    "class": "lu icon-upload"
     },
     {
     "name": "usb",
-    "class": "icon-usb"
+    "class": "lu icon-usb"
     },
     {
     "name": "user-check",
-    "class": "icon-user-check"
+    "class": "lu icon-user-check"
     },
     {
     "name": "user-cog",
-    "class": "icon-user-cog"
+    "class": "lu icon-user-cog"
     },
     {
     "name": "user-minus",
-    "class": "icon-user-minus"
+    "class": "lu icon-user-minus"
     },
     {
     "name": "user-pen",
-    "class": "icon-user-pen"
+    "class": "lu icon-user-pen"
     },
     {
     "name": "user-plus",
-    "class": "icon-user-plus"
+    "class": "lu icon-user-plus"
     },
     {
     "name": "user-round-check",
-    "class": "icon-user-round-check"
+    "class": "lu icon-user-round-check"
     },
     {
     "name": "user-round-cog",
-    "class": "icon-user-round-cog"
+    "class": "lu icon-user-round-cog"
     },
     {
     "name": "user-round-minus",
-    "class": "icon-user-round-minus"
+    "class": "lu icon-user-round-minus"
     },
     {
     "name": "user-round-pen",
-    "class": "icon-user-round-pen"
+    "class": "lu icon-user-round-pen"
     },
     {
     "name": "user-round-plus",
-    "class": "icon-user-round-plus"
+    "class": "lu icon-user-round-plus"
     },
     {
     "name": "user-round-search",
-    "class": "icon-user-round-search"
+    "class": "lu icon-user-round-search"
     },
     {
     "name": "user-round-x",
-    "class": "icon-user-round-x"
+    "class": "lu icon-user-round-x"
     },
     {
     "name": "user-round",
-    "class": "icon-user-round"
+    "class": "lu icon-user-round"
     },
     {
     "name": "user-search",
-    "class": "icon-user-search"
+    "class": "lu icon-user-search"
     },
     {
     "name": "user-x",
-    "class": "icon-user-x"
+    "class": "lu icon-user-x"
     },
     {
     "name": "user",
-    "class": "icon-user"
+    "class": "lu icon-user"
     },
     {
     "name": "users-round",
-    "class": "icon-users-round"
+    "class": "lu icon-users-round"
     },
     {
     "name": "users",
-    "class": "icon-users"
+    "class": "lu icon-users"
     },
     {
     "name": "utensils-crossed",
-    "class": "icon-utensils-crossed"
+    "class": "lu icon-utensils-crossed"
     },
     {
     "name": "utensils",
-    "class": "icon-utensils"
+    "class": "lu icon-utensils"
     },
     {
     "name": "utility-pole",
-    "class": "icon-utility-pole"
+    "class": "lu icon-utility-pole"
     },
     {
     "name": "variable",
-    "class": "icon-variable"
+    "class": "lu icon-variable"
     },
     {
     "name": "vault",
-    "class": "icon-vault"
+    "class": "lu icon-vault"
     },
     {
     "name": "vegan",
-    "class": "icon-vegan"
+    "class": "lu icon-vegan"
     },
     {
     "name": "venetian-mask",
-    "class": "icon-venetian-mask"
+    "class": "lu icon-venetian-mask"
     },
     {
     "name": "vibrate-off",
-    "class": "icon-vibrate-off"
+    "class": "lu icon-vibrate-off"
     },
     {
     "name": "vibrate",
-    "class": "icon-vibrate"
+    "class": "lu icon-vibrate"
     },
     {
     "name": "video-off",
-    "class": "icon-video-off"
+    "class": "lu icon-video-off"
     },
     {
     "name": "video",
-    "class": "icon-video"
+    "class": "lu icon-video"
     },
     {
     "name": "videotape",
-    "class": "icon-videotape"
+    "class": "lu icon-videotape"
     },
     {
     "name": "view",
-    "class": "icon-view"
+    "class": "lu icon-view"
     },
     {
     "name": "voicemail",
-    "class": "icon-voicemail"
+    "class": "lu icon-voicemail"
     },
     {
     "name": "volume-1",
-    "class": "icon-volume-1"
+    "class": "lu icon-volume-1"
     },
     {
     "name": "volume-2",
-    "class": "icon-volume-2"
+    "class": "lu icon-volume-2"
     },
     {
     "name": "volume-x",
-    "class": "icon-volume-x"
+    "class": "lu icon-volume-x"
     },
     {
     "name": "volume",
-    "class": "icon-volume"
+    "class": "lu icon-volume"
     },
     {
     "name": "vote",
-    "class": "icon-vote"
+    "class": "lu icon-vote"
     },
     {
     "name": "wallet-cards",
-    "class": "icon-wallet-cards"
+    "class": "lu icon-wallet-cards"
     },
     {
     "name": "wallet-minimal",
-    "class": "icon-wallet-minimal"
+    "class": "lu icon-wallet-minimal"
     },
     {
     "name": "wallet",
-    "class": "icon-wallet"
+    "class": "lu icon-wallet"
     },
     {
     "name": "wallpaper",
-    "class": "icon-wallpaper"
+    "class": "lu icon-wallpaper"
     },
     {
     "name": "wand-sparkles",
-    "class": "icon-wand-sparkles"
+    "class": "lu icon-wand-sparkles"
     },
     {
     "name": "wand",
-    "class": "icon-wand"
+    "class": "lu icon-wand"
     },
     {
     "name": "warehouse",
-    "class": "icon-warehouse"
+    "class": "lu icon-warehouse"
     },
     {
     "name": "washing-machine",
-    "class": "icon-washing-machine"
+    "class": "lu icon-washing-machine"
     },
     {
     "name": "watch",
-    "class": "icon-watch"
+    "class": "lu icon-watch"
     },
     {
     "name": "waves",
-    "class": "icon-waves"
+    "class": "lu icon-waves"
     },
     {
     "name": "waypoints",
-    "class": "icon-waypoints"
+    "class": "lu icon-waypoints"
     },
     {
     "name": "webcam",
-    "class": "icon-webcam"
+    "class": "lu icon-webcam"
     },
     {
     "name": "webhook-off",
-    "class": "icon-webhook-off"
+    "class": "lu icon-webhook-off"
     },
     {
     "name": "webhook",
-    "class": "icon-webhook"
+    "class": "lu icon-webhook"
     },
     {
     "name": "weight",
-    "class": "icon-weight"
+    "class": "lu icon-weight"
     },
     {
     "name": "wheat-off",
-    "class": "icon-wheat-off"
+    "class": "lu icon-wheat-off"
     },
     {
     "name": "wheat",
-    "class": "icon-wheat"
+    "class": "lu icon-wheat"
     },
     {
     "name": "whole-word",
-    "class": "icon-whole-word"
+    "class": "lu icon-whole-word"
     },
     {
     "name": "wifi-high",
-    "class": "icon-wifi-high"
+    "class": "lu icon-wifi-high"
     },
     {
     "name": "wifi-low",
-    "class": "icon-wifi-low"
+    "class": "lu icon-wifi-low"
     },
     {
     "name": "wifi-off",
-    "class": "icon-wifi-off"
+    "class": "lu icon-wifi-off"
     },
     {
     "name": "wifi-zero",
-    "class": "icon-wifi-zero"
+    "class": "lu icon-wifi-zero"
     },
     {
     "name": "wifi",
-    "class": "icon-wifi"
+    "class": "lu icon-wifi"
     },
     {
     "name": "wind",
-    "class": "icon-wind"
+    "class": "lu icon-wind"
     },
     {
     "name": "wine-off",
-    "class": "icon-wine-off"
+    "class": "lu icon-wine-off"
     },
     {
     "name": "wine",
-    "class": "icon-wine"
+    "class": "lu icon-wine"
     },
     {
     "name": "workflow",
-    "class": "icon-workflow"
+    "class": "lu icon-workflow"
     },
     {
     "name": "worm",
-    "class": "icon-worm"
+    "class": "lu icon-worm"
     },
     {
     "name": "wrap-text",
-    "class": "icon-wrap-text"
+    "class": "lu icon-wrap-text"
     },
     {
     "name": "wrench",
-    "class": "icon-wrench"
+    "class": "lu icon-wrench"
     },
     {
     "name": "x",
-    "class": "icon-x"
+    "class": "lu icon-x"
     },
     {
     "name": "youtube",
-    "class": "icon-youtube"
+    "class": "lu icon-youtube"
     },
     {
     "name": "zap-off",
-    "class": "icon-zap-off"
+    "class": "lu icon-zap-off"
     },
     {
     "name": "zap",
-    "class": "icon-zap"
+    "class": "lu icon-zap"
     },
     {
     "name": "zoom-in",
-    "class": "icon-zoom-in"
+    "class": "lu icon-zoom-in"
     },
     {
     "name": "zoom-out",
-    "class": "icon-zoom-out"
+    "class": "lu icon-zoom-out"
     }
 ]
